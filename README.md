@@ -15,7 +15,7 @@ Estruturas de dados estáticas e dinâmicas.
 | Aula | Data | Conteúdo |
 | :-:  | :-:  | ---      |
 | [01][] | 18/02 | Apresentação da Disciplina, Plano de Ensino e Critérios de Avaliação; Revisão de pré-requisitos
-| [02][] | 25/02 | Struct; Estruturas Estáticas e Dinâmicas
+| [02][] | 25/02 | Struct; Alocação Dinâmica de Memória
 | [03][] |  |
 | [04][] |  |
 | [05][] |  |
@@ -40,9 +40,18 @@ Estruturas de dados estáticas e dinâmicas.
 
 <br>
 
+## Pré-Requisitos
+
+* Introdução à Programação
+
+* Arquitetura e Organização de Computadores (Opcional)
+
+<br>
+
 ## Recursos
 
-* Visual Studio Code (Editor)
+* Microsoft Visual Studio Code (Editor)
+
 * GCC (Compilador C/C++)
 
 <br>
