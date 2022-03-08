@@ -16,7 +16,7 @@ Estruturas de dados estáticas e dinâmicas.
 | :-:  | :-:  | ---      |
 | [01][] | 18/02 | Apresentação da Disciplina, Plano de Ensino e Critérios de Avaliação; Revisão de pré-requisitos
 | [02][] | 25/02 | Struct; Alocação Dinâmica de Memória
-| [03][] |  |
+| [03][] | 04/03 | Vetores Dinâmicos; Introdução à Listas Encadeadas
 | [04][] |  |
 | [05][] |  |
 | [06][] |  |
@@ -31,12 +31,12 @@ Estruturas de dados estáticas e dinâmicas.
 | 15 |  |
 | -- |  |
 
-[01]: https://github.com/eduardo-ono/Sistemas-Operacionais/tree/master/aulas#aula-01
-[02]: https://github.com/eduardo-ono/Sistemas-Operacionais/tree/master/aulas#aula-02
-[03]: https://github.com/eduardo-ono/Sistemas-Operacionais/tree/master/aulas#aula-03
-[04]: https://github.com/eduardo-ono/Sistemas-Operacionais/tree/master/aulas#aula-04
-[05]: https://github.com/eduardo-ono/Sistemas-Operacionais/tree/master/aulas#aula-05
-[06]: https://github.com/eduardo-ono/Sistemas-Operacionais/tree/master/aulas#aula-06
+[01]: #
+[02]: #
+[03]: #
+[04]: #
+[05]: #
+[06]: #
 
 <br>
 
@@ -60,9 +60,8 @@ Estruturas de dados estáticas e dinâmicas.
 
 | Capa | Título |
 | :-:  | ---    |
-  <img src="https://images-na.ssl-images-amazon.com/images/I/51TeqaTZDwL._SX369_BO1,204,203,200_.jpg" alt="img" width="100px"> | <sup>[<a id="TANENBAUM-4e_2016">TANENBAUM-4e_2016</a>]</sup> <br> TANENBAUM, Andrew. S.; BOS, Herbert. [__Sistemas Operacionais Modernos, 4. ed.__](https://archive.org/details/SistemasOperacionaisModernosTanenbaum4Edio/), São Paulo: Pearson Education do Brasil, 2016.
-  <img src="./referencias/capas/silberschatz_2015.jpg" width="100px"> | <sup>[SILBERSCHATZ_2015]</sup> <br> SILBERSCHATZ, Abraham; GALVIN, Peter B.; GAGNE, Greg. **Fundamentos de Sistemas Operacionais: Princípios Básicos, 9. ed.**, Rio de Janeiro: LTC, 2015.
-  <img src="./referencias/capas/stallings_2017.jpg" width="100px"> | [STALLINGS_2017] <br> STALLINGS, Willian. **Operating Systems: Internals and Design Principles, 9. ed.**, Pearson, 2017.
+| <img src="./referencias/capas/CELES_2004.jpg" alt="img" width="100px"> | <sup><a id="CELES_2004">CELES_2004</a></sup><br>CELES, W.; CERQUEIRA, R.; RANGEL, J. R. [Introdução a Estruturas de Dados - Com Técnicas de Programação em C](https://archive.org/details/introducaoaestruturadedados/), Campus, 2004.
+| <img src="./referencias/capas/CELES-2e_2016.jpg" alt="img" width="100px"> | <sup><a id="CELES-2e_2016">CELES-2e_2016</a></sup><br>CELES, W.; CERQUEIRA, R.; RANGEL, J. R. Introdução a Estruturas de Dados - Com Técnicas de Programação em C, 2. ed., GEN LTC, 2016.
 
 <br>
 
@@ -70,16 +69,6 @@ Estruturas de dados estáticas e dinâmicas.
 
 | Capa | Título |
 | :-:  | ---    |
-| <img src="./referencias/capas/silberschatz_2018.jpg" width="100px"> | [SILBERSCHATZ_2018] SILBERSCHATZ, Abraham; GALVIN, Peter B.; GAGNE, Greg; [**Operating System Concepts, 10. ed.**](https://archive.org/details/silberschatz-operating-system-concepts-10e-2018/), Wiley, 2018.
-| <img src="./referencias/capas/silberschatz_2013.jpg" width="100px"> | [SILBERSCHATZ_2013] SILBERSCHATZ, Abraham; GALVIN, Peter B.; GAGNE, Greg. [**Operating Systems Concepts, 9. ed.**](https://archive.org/details/operating-system-concepts/), John Wiley & Sons, 2013.
-| <img src="./referencias/capas/tanenbaum_2008.jpg" width="100px"> | [TANENBAUM_2008] TANENBAUM, Andrew S.; WOODHULL, Albert S. **Sistemas Operacionais - Projeto e Implementação, 3. ed.**, 2008.
-| <img src="./referencias/capas/tanenbaum_2006.jpg" width="100px"> | [TANENBAUM_2006] TANENBAUM, Andrew S.; WOODHULL, Albert S. [**Operating Systems - Design and Implementation, 3. ed.**](https://archive.org/details/tanenbaum_woodhull_operating-systems-design-implementation-3rd-edition), Pearson Education, Inc., 2006.
-| <img src="./referencias/capas/stuart_2010.jpg" width="100px"> | <a id="STUART_2011"></a> [STUART_2011] STUART, Brian L. __Princípios de Sistemas Operacionais - Projetos e Aplicações__, São Paulo: Cengage Learning, 2011.
-| <img src="https://images-na.ssl-images-amazon.com/images/I/41jV2a9YjsL._SX379_BO1,204,203,200_.jpg" width="100px"> | [MACHADO_2007] MACHADO, Francis B.; MAIA, Luiz P. **Arquitetura de Sistemas Operacionais, 4. ed.**, Rio de Janeiro: LTC, 2007.
-
-  * https://goalkicker.com/LinuxBook/
-
-  * https://goalkicker.com/BashBook/
 
 <br>
 
