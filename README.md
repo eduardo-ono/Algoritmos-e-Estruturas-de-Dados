@@ -15,7 +15,7 @@ Estruturas de dados estáticas e dinâmicas.
 | Aula | Data | Conteúdo |
 | :-:  | :-:  | ---      |
 | [01][] | 18/02 | Apresentação da Disciplina, Plano de Ensino e Critérios de Avaliação; Revisão de pré-requisitos
-| [02][] | 25/02 | Struct; Alocação Dinâmica de Memória
+| [02][] | 25/02 | Memória Stack e Heap; Alocação Dinâmica de Memória; Struct
 | [03][] | 04/03 | Vetores Estáticos e Dinâmicos
 | [04][] | 11/03 | CRUD com Vetores Dinâmicos; Introdução à Lista Encadeada
 | [05][] |  |
