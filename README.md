@@ -14,8 +14,8 @@ Estruturas de dados estáticas e dinâmicas.
 
 | Aula | Data | Conteúdo |
 | :-:  | :-:  | ---      |
-| [01][] | 18/02 | Apresentação da Disciplina, Plano de Ensino e Critérios de Avaliação; Revisão de pré-requisitos
-| [02][] | 25/02 | Memória Stack e Heap; Alocação Dinâmica de Memória; Struct
+| [01][] | 18/02 | Apresentação de Estrutura de Dados; Revisão dos pré-requisitos
+| [02][] | 25/02 | Memória "Stack" e memória "Heap"; Alocação Dinâmica de Memória; Struct
 | [03][] | 04/03 | Vetores Estáticos e Dinâmicos
 | [04][] | 11/03 | CRUD com Vetores Dinâmicos; Introdução à Lista Encadeada
 | [05][] |  |
@@ -42,7 +42,7 @@ Estruturas de dados estáticas e dinâmicas.
 
 ## Pré-Requisitos
 
-* Introdução à Programação
+* [Introdução à Programação](https://github.com/eduardo-ono/Introducao-a-Programacao)
 
 * Arquitetura e Organização de Computadores (Opcional)
 
@@ -69,6 +69,8 @@ Estruturas de dados estáticas e dinâmicas.
 
 | Capa | Título |
 | :-:  | ---    |
+| <img src="./referencias/capas/REESE_2013.jpg" alt="img" width="100px"> | <sup id="REESE_2013">[REESE_2013]</sup><br>REESE, Richard. __Understanding and Using C Pointers__, O'Reilly Media, 2013[.](https://app.box.com/s/cbp98oofhokip0yki3gh7khz6zb6htgq)
+
 
 <br>
 

@@ -8,6 +8,4 @@ typedef struct paciente {
     float imc;
 } Paciente;
 
-typedef Paciente Data;
-
 #endif

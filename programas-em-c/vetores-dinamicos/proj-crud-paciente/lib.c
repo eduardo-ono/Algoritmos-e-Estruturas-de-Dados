@@ -22,15 +22,18 @@ Paciente cadastrarNovoPaciente()
     Paciente paciente; // Criado na "stack"
     float peso, altura;
 
+    printf("--> Cadastro de um novo paciente\n");
     printf("Nome: ");
     gets(paciente.nome);
     do {
         printf("Peso [kg]: ");
         scanf("%f", &peso);
+        getchar();
     } while (peso <= 0.0 || peso > 500.0);
     do {
         printf("Altura [m]: ");
         scanf("%f", &altura);
+        getchar();
     } while (altura <= 0.0 || altura > 3.0);
     paciente.peso = peso;
     paciente.altura = altura;

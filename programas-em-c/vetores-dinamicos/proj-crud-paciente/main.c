@@ -5,14 +5,25 @@
 #include "lib.c"
 #include "arrayList.c"
 
+// Função para limpar a tela
+void clrscr(){
+    #if defined(__linux__) || defined(__unix__) || defined(__APPLE__)
+        system("clear");
+    #endif
+    #if defined(_WIN32) || defined(_WIN64)
+        system("cls");
+    #endif
+}
+
 int main()
 {
-    const int N_MENU = 5;
+    const int N_MENU = 6;
     char *menu[] = {
         "[0] Listar pacientes",
         "[1] Adicionar Novo Paciente",
         "[2] Remover Paciente",
         "[3] Procurar Paciente",
+        "[L] Limpar a tela",
         "[X] Sair do Programa"
     };
     char opcao;
@@ -39,6 +50,10 @@ int main()
                 index = removerPaciente();
                 if (index >= 0)
                     v = removerElementoArray(v, n, index);
+                break;
+            case 'L':
+                clrscr();
+                break;
         }
     } while (opcao != 'X');
 
