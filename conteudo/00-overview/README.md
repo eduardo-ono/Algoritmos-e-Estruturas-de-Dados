@@ -15,7 +15,13 @@ Prof. Eduardo Ono
     | Thumb | Descrição |
     | :-: | --- |
     | [![img](https://img.youtube.com/vi/EfF1M7myAyY/default.jpg)](https://youtu.be/EfF1M7myAyY) | <sup>[Código Fonte TV]</sup> [Estrutura de Dados (A famosa ED que todo dev tem que aprender) // Dicionário do Programador](https://www.youtube.com/watch?v=EfF1M7myAyY)<br><sub>(12:03, YouTube, Nov/2020)</sub>
-    | [![img](https://img.youtube.com/vi/ZAQtwFpkksw/default.jpg)](https://youtu.be/ZAQtwFpkksw) | <sup>[60 second]</sup> [Um grupo de cinco macacos e dois cientistas](https://www.youtube.com/watch?v=ZAQtwFpkksw)<br><sub>(1:50, YouTube, Fev/2013)</sub>
+    | [![img](https://img.youtube.com/vi/SqBgnMgFQTU/default.jpg)](https://youtu.be/SqBgnMgFQTU) | <sup>[Programação Dinâmica]</sup> [Por que e como estudar ALGORITMOS e ESTRUTURA DE DADOS? \| Handshake #6](https://www.youtube.com/watch?v=SqBgnMgFQTU)<br><sub>(14:43, YouTube, Jun/2020)</sub>
+
+<br>
+
+## Cursos "Completos"
+
+* https://www.youtube.com/playlist?list=PL8iN9FQ7_jt6H5m4Gm0H89sybzR9yaaka
 
 <br>
 

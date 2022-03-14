@@ -8,7 +8,27 @@ Prof. Eduardo Ono
 
 ## Estruturas Estáticas
 
+* ### [Vetores/Arrays Estáticos](./03-vetores-estaticos/)
+
+* ### Matrizes
+
 <br>
+
+## Estruturas
+
+* ### [struct](./02-estruturas/)
+
+* ### union
+
+<br>
+
+## Alocação Dinâmica de Memória
+
+<br>
+
+## Estruturas Dinâmicas
+
+* ### Vetores/Array Dinâmicos
 
 ## Recursão
 
@@ -16,11 +36,25 @@ Prof. Eduardo Ono
 
 ## Algoritmos de Ordenação
 
+* ### Bubble Sort
+
+* ### Insertion Sort
+
+* ### Selection Sort
+
+* ### Merge Sort
+
+* ### Quick Sort
+
 <br>
 
 ## Estruturas Dinâminas Lineares
 
-* ### Listas Encadeadas (Listas Ligadas)
+* ### Listas Encadeadas Simples (Listas Ligadas Simples)
+
+* ### Pilhas
+
+* ### Filas
 
 * ### Listas Duplamente Encadeadas
 
@@ -38,7 +72,11 @@ Prof. Eduardo Ono
 
 <br>
 
-## Análise de Algoritmos
+## Tabela Hash
+
+<br>
+
+## Análise da Complexidade de Algoritmos
 
 <br>
 

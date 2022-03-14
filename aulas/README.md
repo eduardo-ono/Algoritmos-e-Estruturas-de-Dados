@@ -23,6 +23,8 @@ Prof. Eduardo Ono
 
     * [Editor Microsoft Visual Studio Code (VS Code)](https://github.com/eduardo-ono/Introducao-a-Programacao/tree/master/conteudo/01-ambiente-de-desenvolvimento#microsoft-visual-studio-code-vs-code)
 
+  * ## Estruturas em C
+
   </section>
 </details>
 

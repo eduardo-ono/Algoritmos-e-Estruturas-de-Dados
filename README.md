@@ -6,7 +6,7 @@ Prof. Eduardo Ono
 
 ## Descrição
 
-Estruturas de dados estáticas e dinâmicas.
+Estruturas de dados dinâmicas, lineares e não lineares.
 
 <br>
 
@@ -31,10 +31,10 @@ Estruturas de dados estáticas e dinâmicas.
 | 15 |  |
 | -- |  |
 
-[01]: #
-[02]: #
-[03]: #
-[04]: #
+[01]: ./aulas/README.md#aula-01
+[02]: ./aulas/README.md#aula-02
+[03]: ./aulas/README.md#aula-03
+[04]: ./aulas/README.md#aula-04
 [05]: #
 [06]: #
 
@@ -78,7 +78,7 @@ Estruturas de dados estáticas e dinâmicas.
 
 | Thumb | Descrição |
 | :-: | --- |
-| [![img](https://img.youtube.com/vi/Gk-9Fd2mEnI/default.jpg)](https://youtu.be/Gk-9Fd2mEnI) | <sup>[MIT Video Productions]</sup> [Steve Jobs President & CEO, NeXT Computer Corp and Apple. MIT Sloan Distinguished Speaker Series](https://www.youtube.com/watch?v=Gk-9Fd2mEnI)<br><sub>(1:12:53, YouTube, Dez/2017)</sub>
+| [![img](https://img.youtube.com/vi/9GdesxWtOgs/default.jpg)](https://youtu.be/9GdesxWtOgs) | <sup>[Fabio Akita]</sup> [Árvores: O Começo de TUDO \| Estruturas de Dados e Algoritmos](https://www.youtube.com/watch?v=9GdesxWtOgs)<br><sub>(57:40, YouTube, Abr/2021)</sub>
 | [![img](https://img.youtube.com/vi/ZAQtwFpkksw/default.jpg)](https://youtu.be/ZAQtwFpkksw) | <sup>[60 second]</sup> [Um grupo de cinco macacos e dois cientistas](https://www.youtube.com/watch?v=ZAQtwFpkksw)<br><sub>(1:50, YouTube, Fev/2013)</sub>
 
 <br>
