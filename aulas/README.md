@@ -25,6 +25,12 @@ Prof. Eduardo Ono
 
   * ## Estruturas em C
 
+    * ### struct
+
+  * ## Alocação Dinâmica de Memória
+
+    * [Memória "Stack" e memória "Heap"](../conteudo/03-alocacao-dinamica-de-memoria/README.md#memória-stack-e-memória-heap)
+
   </section>
 </details>
 
