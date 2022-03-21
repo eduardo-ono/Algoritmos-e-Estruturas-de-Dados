@@ -25,7 +25,7 @@ Prof. Eduardo Ono
 
 <br>
 
-## Dicas para a Carreira do Profissional
+## Dicas para o Profissional
 
 | Thumb | Descrição |
 | :-: | --- |

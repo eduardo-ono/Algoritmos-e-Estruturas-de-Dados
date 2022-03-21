@@ -11,7 +11,7 @@ Prof. Eduardo Ono
     <strong>Aula 01: Introdução a Estrutura de Dados</strong>
   </summary>
   <section markdown="1">
-  <hr>
+  <sup><hr></sup>
 
   * ## Conceitos
 
@@ -41,6 +41,7 @@ Prof. Eduardo Ono
     <strong>Aula 02 - Vetores/Arrays Estáticos</strong>
   </summary>
   <section markdown="1">
+  <sup><hr></sup>
 
   </section>
 </details>
@@ -52,6 +53,7 @@ Prof. Eduardo Ono
     <strong>Aula 03 - Vetores/Arrays Dinâmicos</strong>
   </summary>
   <section markdown="1">
+  <sup><hr></sup>
 
   * Função realloc() e free()
 
@@ -67,6 +69,23 @@ Prof. Eduardo Ono
     <strong>Aula 04 - Introdução a Listas Encadeadas (Listas Ligadas)</strong>
   </summary>
   <section markdown="1">
+  <sup><hr></sup>
+
+  </section>
+</details>
+
+---
+
+<details id="aula-05">
+  <summary>
+    <strong>Aula 05 - Listas Simplesmente Encadeadas (cont.)</strong>
+  </summary>
+  <section markdown="1">
+  <sup><hr></sup>
+
+* Exercício: Adicionar elemento no início de uma lista encadeada.
+
+  * [lista-simplesmente-encadeada-agenda.c](../listas-de-exercicios/lista-simplesmente-encadeada/lista-simplesmente-encadeada-agenda.c)
 
   </section>
 </details>

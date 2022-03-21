@@ -80,6 +80,6 @@ Prof. Eduardo Ono
 
 <br>
 
-* ### Grafos
+## Teoria dos Grafos
 
 <br>

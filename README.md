@@ -18,7 +18,7 @@ Estruturas de dados dinâmicas, lineares e não lineares.
 | [02][] | 25/02 | Memória "Stack" e memória "Heap"; Alocação Dinâmica de Memória; Struct
 | [03][] | 04/03 | Vetores Estáticos e Dinâmicos
 | [04][] | 11/03 | CRUD com Vetores Dinâmicos; Introdução à Lista Encadeada
-| [05][] |  |
+| [05][] | 18/03 | CRUD com Lista Encadeada
 | [06][] |  |
 | 07 |  |
 | 08 |  |
@@ -35,7 +35,7 @@ Estruturas de dados dinâmicas, lineares e não lineares.
 [02]: ./aulas/README.md#aula-02
 [03]: ./aulas/README.md#aula-03
 [04]: ./aulas/README.md#aula-04
-[05]: #
+[05]: ./aulas/README.md#aula-05
 [06]: #
 
 <br>
