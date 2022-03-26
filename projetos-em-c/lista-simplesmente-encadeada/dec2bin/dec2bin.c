@@ -2,14 +2,14 @@
 #include <stdlib.h>
 
 #define Info int // Todo tipo "Info" será substituído pelo tipo "int"
-#include "../_lib/linkedList.c"
+#include "../_lib/linkedList.c" // "Biblioteca" para listas simplesmente encadeadas
 
 void imprimirInfo(No *);
 
 int main()
 {
     int num, quociente, resto;
-    No *lista = NULL;
+    No *lista = NULL; // Inicializa a lista encadeada como vazia
 
     while (1)
     {
@@ -33,6 +33,7 @@ int main()
     return 0;
 }
 
+// Imprime os dados armazenados na lista
 void imprimirInfo(No *lista)
 {
     No *p = lista;

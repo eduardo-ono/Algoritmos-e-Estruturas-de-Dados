@@ -16,14 +16,14 @@ Prof. Eduardo Ono
 
 * Os algarismos do número binário podem ser obtidos através dos  restos das divisões sucessivas dos quocientes por 2. Contudo, a sequência dos restos deve ser lida do fim para o início.
 
+<br>
+
 ## Exemplo
 
 * Conforme a ilustração a seguir, o decimal 135 é convertido para 10000111 no sistema binário:
 
 <p align="center">
-
-  ![img](./dec2bin.png)
-
+  <img src="./dec2bin.png" width="500" alt="img">
 </p>
 
 <br>
