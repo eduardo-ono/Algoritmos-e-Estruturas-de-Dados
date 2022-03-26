@@ -22,13 +22,13 @@ No *inserirNoFim(No *lista, Info info);
 // Percorre a lista liberando cada nó individualmente através da função free()
 No *limpar(No *lista)
 {
-    No *p = lista, *pProx;
+    No *p;
 
-    while (p != NULL)
+    while (lista != NULL)
     {
-        pProx = p->prox;
+        p = lista;
+        lista = lista->prox;
         free(p);
-        p = pProx;
     }
 
     return NULL;
