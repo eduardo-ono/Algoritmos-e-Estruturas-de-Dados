@@ -6,18 +6,22 @@ Prof. Eduardo Ono
 
 <br>
 
-## Algoritmos Simples
+## Tópicos
 
-### Bubble Sort
+### Fundamentos
 
-### Insertion Sort
+### Algoritmos Simples
 
-### Selection Sort
+* #### Bubble Sort
+
+* #### Insertion Sort
+
+* #### Selection Sort
 
 <br>
 
-## Algoritmos Recursivos
+### Algoritmos Recursivos
 
-### Quick Sort
+* ### Quick Sort
 
 <br>

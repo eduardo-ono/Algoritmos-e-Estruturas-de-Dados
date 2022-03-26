@@ -10,7 +10,7 @@ Estruturas de dados dinâmicas, lineares e não lineares.
 
 <br>
 
-## Conteúdo Programático
+## [Conteúdo Programático](./conteudo/README.md)
 
 | Aula | Data | Conteúdo |
 | :-:  | :-:  | ---      |

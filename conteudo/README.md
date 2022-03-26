@@ -50,13 +50,15 @@ Prof. Eduardo Ono
 
 ## Estruturas Dinâminas Lineares
 
-* ### Listas Encadeadas Simples (Listas Ligadas Simples)
+* ### Listas Simplesmente Encadeadas Simples (ou Listas Ligadas Simples)
 
-* ### Pilhas
+* ### [Pilhas](./07-pilhas-e-filas/pilhas/README.md)
 
 * ### Filas
 
 * ### Listas Duplamente Encadeadas
+
+* ### Listas Circulares
 
 <br>
 
