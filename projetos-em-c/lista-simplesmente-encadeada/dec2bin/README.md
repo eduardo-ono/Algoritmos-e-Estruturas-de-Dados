@@ -8,7 +8,7 @@ Prof. Eduardo Ono
 
 ## Descrição
 
-* Programa para converter um número inteiro positivo no sistema decimal para o sistema binário, fazendo uso de uma lista simpesmente encadeada.
+* Programa para converter um número inteiro positivo no sistema decimal para o sistema binário, fazendo uso de uma lista simpesmente encadeada de números inteiros (apenas zeros e uns, nesse caso).
 
 <br>
 
@@ -36,6 +36,6 @@ Prof. Eduardo Ono
 
 ## Características do Programa
 
-* O programa utiliza uma "biblioteca", que é o arquivo `linkedList.c` contendo várias funções prontas para facilitar a manipulação da lista. Esse arquivo está localizado no diretório `lib`, e deve estar presente durante a compilação do programa.
+* O programa utiliza uma "biblioteca" para listas simplesmente encadeadas, que é o arquivo `linkedList.c` contendo várias funções prontas para facilitar a manipulação da lista. Esse arquivo está localizado no diretório `lib`, e deve estar presente durante a compilação do programa.
 
 <br>

@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define Info int // Todo tipo "Info" será substituído por "int"
+#define Info int // Todo tipo "Info" será substituído pelo tipo "int"
 #include "../_lib/linkedList.c"
 
 void imprimirInfo(No *);
