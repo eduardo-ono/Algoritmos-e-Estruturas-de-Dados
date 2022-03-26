@@ -4,7 +4,7 @@
 
 char exibirMenu(char *menu[], const int N)
 {
-    char opcao, opcoes[N], entrada[100], ch;
+    char opcao, opcoes[N], entrada[100];
     int i, opcaoOk, maxStrSize;
 
     // Determina o tamanho da maior string

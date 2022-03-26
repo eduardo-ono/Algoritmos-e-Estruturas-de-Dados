@@ -14,20 +14,20 @@ Estruturas de dados dinâmicas, lineares e não lineares.
 
 | Aula | Data | Conteúdo |
 | :-:  | :-:  | ---      |
-| [01][] | 18/02 | Apresentação de Estrutura de Dados; Revisão dos pré-requisitos
+| [01][] | 18/02 | "Overview" de Estrutura de Dados; Revisão dos pré-requisitos
 | [02][] | 25/02 | Memória "Stack" e memória "Heap"; Alocação Dinâmica de Memória; Struct
 | [03][] | 04/03 | Vetores Estáticos e Dinâmicos
 | [04][] | 11/03 | CRUD com Vetores Dinâmicos; Introdução à Lista Encadeada
 | [05][] | 18/03 | CRUD com Lista Encadeada
-| [06][] |  |
-| 07 |  |
-| 08 |  |
-| 09 |  |
-| 10 |  |
-| 11 |  |
-| 12 |  |
-| 13 |  |
-| 14 |  |
+| [06][] | 25/03 | Pilhas e Filas
+| [07][] | 01/04 | Listas Circulares e Revisão de Recursão
+| 08 | 08/04 | __1a. Avaliação__
+| 09 | 29/04 | Árvores
+| 10 | 06/05 |
+| 11 | 13/05 |
+| 12 | 20/05 |
+| 13 | 27/05 |
+| 14 | 03/06 | __2a. Avaliação__ (A ser confirmada)
 | 15 |  |
 | -- |  |
 
@@ -36,7 +36,8 @@ Estruturas de dados dinâmicas, lineares e não lineares.
 [03]: ./aulas/README.md#aula-03
 [04]: ./aulas/README.md#aula-04
 [05]: ./aulas/README.md#aula-05
-[06]: #
+[06]: ./aulas/README.md#aula-06
+[07]: ./aulas/README.md#aula-07
 
 <br>
 
