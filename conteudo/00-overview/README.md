@@ -8,15 +8,24 @@ Prof. Eduardo Ono
 
 ## Conceitos
 
-* ### Estrutura de Dados
+### Estrutura de Dados
 
-  * #### Vídeos Recomendados
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/EfF1M7myAyY/default.jpg)](https://youtu.be/EfF1M7myAyY) | <sup>[Código Fonte TV]</sup> [Estrutura de Dados (A famosa ED que todo dev tem que aprender) // Dicionário do Programador](https://www.youtube.com/watch?v=EfF1M7myAyY)<br><sub>(12:03, YouTube, Nov/2020)</sub>
+| [![img](https://img.youtube.com/vi/SqBgnMgFQTU/default.jpg)](https://youtu.be/SqBgnMgFQTU) | <sup>[Programação Dinâmica]</sup> [Por que e como estudar ALGORITMOS e ESTRUTURA DE DADOS? \| Handshake #6](https://www.youtube.com/watch?v=SqBgnMgFQTU)<br><sub>(14:43, YouTube, Jun/2020)</sub>
 
-    | Thumb | Descrição |
-    | :-: | --- |
-    | [![img](https://img.youtube.com/vi/EfF1M7myAyY/default.jpg)](https://youtu.be/EfF1M7myAyY) | <sup>[Código Fonte TV]</sup> [Estrutura de Dados (A famosa ED que todo dev tem que aprender) // Dicionário do Programador](https://www.youtube.com/watch?v=EfF1M7myAyY)<br><sub>(12:03, YouTube, Nov/2020)</sub>
-    | [![img](https://img.youtube.com/vi/SqBgnMgFQTU/default.jpg)](https://youtu.be/SqBgnMgFQTU) | <sup>[Programação Dinâmica]</sup> [Por que e como estudar ALGORITMOS e ESTRUTURA DE DADOS? \| Handshake #6](https://www.youtube.com/watch?v=SqBgnMgFQTU)<br><sub>(14:43, YouTube, Jun/2020)</sub>
+### Tópicos
 
+  | Thumb | Descrição |
+  | :-: | --- |
+  |||
+  || __Tipos de Dados, Vetores, Listas Simplesmente Encadeadas__ |
+  | [![img](https://img.youtube.com/vi/LThXZCLAdhc/default.jpg)](https://youtu.be/LThXZCLAdhc) | <sup>[IFRO Campus Porto Velho Zona Norte (EaD)]</sup> [Estrutura de Dados - Aula 1](https://www.youtube.com/watch?v=LThXZCLAdhc)<br><sub>(1:07:14, YouTube, Ago/2015)</sub>
+  |||
+  || __Listas Duplamente Encadeadas, Árvores__
+  | [![img](https://img.youtube.com/vi/eY6AQWBcWxM/default.jpg)](https://youtu.be/eY6AQWBcWxM) | <sup>[IFRO Campus Porto Velho Zona Norte (EaD)]</sup> [Estrutura de Dados - Aula 2](https://www.youtube.com/watch?v=eY6AQWBcWxM)<br><sub>(1:08:02, YouTube, Set/2014)</sub>
+  
 <br>
 
 ## Cursos "Completos"

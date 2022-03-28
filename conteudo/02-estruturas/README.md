@@ -6,13 +6,11 @@ Prof. Eduardo Ono
 
 <br>
 
-## Conceitos
+## Tópicos
 
-> Uma `struct` é um meio na qual a linguagem C torna possível a criação de um tipo definido pelo usuário (programador). Basicamente, uma struct "encapsula" diferentes tipos primitivos de dados.
+### [Fundamentos](./fundamentos.md)
 
-<br>
-
-## Implementação em C
+### Implementação em C
 
 * struct
 
@@ -58,8 +56,7 @@ typedef struct data {
 } Data;
 ```
 
-* OBS.: Não há obrigatoriedade do nomear a `struct` com o `typedef`:
-
+* OBS.: Não há obrigatoriedade de nomear a `struct` com o `typedef`:
 
 ```c
 typedef struct {
@@ -80,4 +77,5 @@ independencia.ano = 1822;
 printf("%02d/%02d/04%d\n", independencia.dia, independencia.mes, independencia.ano);
 // --> 07/09/1822
 ```
+
 <br>

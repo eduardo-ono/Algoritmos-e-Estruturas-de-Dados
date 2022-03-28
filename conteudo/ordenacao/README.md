@@ -12,7 +12,7 @@ Prof. Eduardo Ono
 
 ### Algoritmos Simples
 
-* #### Bubble Sort
+* #### [Bubble Sort](./algoritmos/bubble-sort/README.md)
 
 * #### Insertion Sort
 
