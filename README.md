@@ -61,8 +61,8 @@ Estruturas de dados dinâmicas, lineares e não lineares.
 
 | Capa | Título |
 | :-:  | ---    |
-| <img src="./referencias/capas/CELES_2004.jpg" alt="img" width="100px"> | <sup><a id="CELES_2004">CELES_2004</a></sup><br>CELES, W.; CERQUEIRA, R.; RANGEL, J. R. [Introdução a Estruturas de Dados - Com Técnicas de Programação em C](https://archive.org/details/introducaoaestruturadedados/), Campus, 2004.
-| <img src="./referencias/capas/CELES-2e_2016.jpg" alt="img" width="100px"> | <sup><a id="CELES-2e_2016">CELES-2e_2016</a></sup><br>CELES, W.; CERQUEIRA, R.; RANGEL, J. R. Introdução a Estruturas de Dados - Com Técnicas de Programação em C, 2. ed., GEN LTC, 2016.
+| <img src="./referencias/capas/CELES_2004.jpg" alt="img" width="100px"> | <sup id="CELES_2004">[CELES_2004]</sup><br>CELES, W.; CERQUEIRA, R.; RANGEL, J. R. [Introdução a Estruturas de Dados - Com Técnicas de Programação em C](https://archive.org/details/introducaoaestruturadedados/), Campus, 2004.
+| <img src="./referencias/capas/CELES-2e_2016.jpg" alt="img" width="100px"> | <sup id="CELES-2e_2016">[CELES-2e_2016]</sup><br>CELES, W.; CERQUEIRA, R.; RANGEL, J. R. Introdução a Estruturas de Dados - Com Técnicas de Programação em C, 2. ed., GEN LTC, 2016.
 
 <br>
 
