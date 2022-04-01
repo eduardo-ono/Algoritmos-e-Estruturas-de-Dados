@@ -25,3 +25,7 @@ Prof. Eduardo Ono
 * ### Quick Sort
 
 <br>
+
+## Vídeos Recomendados
+
+* https://www.youtube.com/playlist?list=PLZh3kxyHrVp_AcOanN_jpuQbcMVdXbqei

@@ -4,7 +4,8 @@ Prof. Eduardo Ono
 
 <br>
 
-<img src="./figuras/capa.jpg" alt="img" width="300">
+<a href="https://www.youtube.com/watch?v=jaK4pn1jXTo&t=529s&lc=UgyM-knAQ03a-aBRzZB4AaABAg"><img src="https://img.youtube.com/vi/jaK4pn1jXTo/hqdefault.jpg" alt="img" width="250"></a>
+<a href="https://www.youtube.com/watch?v=iPq1ZTe8QtA&t=788s"><img src="https://img.youtube.com/vi/iPq1ZTe8QtA/hqdefault.jpg" alt="img" width="250"></a>
 
 ## Descrição
 
@@ -52,7 +53,7 @@ Estruturas de dados dinâmicas, lineares e não lineares.
 
 ## Recursos
 
-* GCC (Compilador C/C++)
+* GCC (Compilador C/C++) e Depurador GDB
 * Microsoft Visual Studio Code (Editor)
 
 <br>
@@ -72,6 +73,7 @@ Estruturas de dados dinâmicas, lineares e não lineares.
 | :-:  | ---    |
 | <img src="./referencias/capas/REESE_2013.jpg" alt="img" width="100px"> | <sup id="REESE_2013">[REESE_2013]</sup><br>REESE, Richard. __Understanding and Using C Pointers__, O'Reilly Media, 2013[.](https://app.box.com/s/cbp98oofhokip0yki3gh7khz6zb6htgq)
 | <img src="./referencias/capas/THAREJA-2e_2014.jpg" alt="img" width="100px"> | <sup id="THAREJA-2e_2014">[THAREJA-2e_2014]</sup><br>THAREJA, Reema; __Data Structures Using C__, New Delhi : Oxford University Press, 2014.
+| <img src="./referencias/capas/GRONER-2e_2018.png" alt="img" width="100px"> | <sup>[GRONER-2e_2018]</sup><br>GRONER, Loiane; __Estruturas de Dados e Algoritmos em JavaScript__, São Paulo : Novatec, 2018.
 
 <br>
 

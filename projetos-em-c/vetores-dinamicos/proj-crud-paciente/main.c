@@ -6,7 +6,7 @@
 #include "lib.c"
 
 // Função para limpar a tela
-void clrscr(){
+void clrscr() {
     #if defined(__linux__) || defined(__unix__) || defined(__APPLE__)
         system("clear");
     #endif

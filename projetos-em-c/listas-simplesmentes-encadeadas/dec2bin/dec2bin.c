@@ -8,22 +8,20 @@ void imprimirInfo(No *);
 
 int main()
 {
-    int num, quociente, resto;
+    int numerador, resto;
     No *lista = NULL; // Inicializa a lista encadeada como vazia
 
     while (1)
     {
         lista = limpar(lista); // "linkedList.c"
         printf("Entre com um numero inteiro ou 0 para sair: ");
-        scanf("%d", &num);
-        if (num < 1)
+        scanf("%d", &numerador);
+        if (numerador < 1)
             break;
-        quociente = 1;
-        while (quociente > 0)
+        while (numerador > 0)
         {
-            quociente = num / 2;
-            resto = num % 2;
-            num = quociente;
+            resto = numerador % 2;
+            numerador = numerador / 2;
             lista = inserirNoInicio(lista, resto); // "linkedList.c"
         }
         imprimirInfo(lista);
