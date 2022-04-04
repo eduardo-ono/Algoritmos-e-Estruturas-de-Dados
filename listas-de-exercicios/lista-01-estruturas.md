@@ -5,8 +5,8 @@
 <sup>Estrutura de Dados > Listas de Exercícios</sup>
 </th>
 <th align="right">
-<img width="5000" height="1">
-<sup>Prof. Eduardo Ono</sup>
+<img width="auto" height="1">
+<sup>Prof.&nbsp;Eduardo&nbsp;Ono</sup>
 </th>
 </tr>
 </table>
