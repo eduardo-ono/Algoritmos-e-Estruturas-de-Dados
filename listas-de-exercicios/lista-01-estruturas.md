@@ -8,9 +8,9 @@ Estrutura de Dados > Listas de Exercícios
 </th>
 <th align="right">
 <img width="25%" height="1">
-<h4>
+<p>
 Prof. Eduardo Ono
-</h4>
+</p>
 </th>
 </tr>
 </table>
