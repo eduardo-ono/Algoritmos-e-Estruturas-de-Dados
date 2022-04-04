@@ -1,6 +1,9 @@
-# Estrutura de Dados
-
+<h1 align="center">
+Estrutura de Dados
+</h1>
+<h4 align="center">
 Prof. Eduardo Ono
+</h4>
 
 <br>
 
