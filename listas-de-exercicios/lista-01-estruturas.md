@@ -1,11 +1,16 @@
 
-<sup><hr></sup>
 ##### Estrutura de Dados > Listas de Exercícios
-<sub><hr></sub>
+<sup><hr></sup>
+
+<p align="center">
 
 # Lista 1 - Estruturas
 
 Prof. Eduardo Ono
+
+</p>
+
+<br>
 
 ## Exercícios
 
