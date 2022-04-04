@@ -1,15 +1,18 @@
 <table>
 <tr>
-<th></th>
+<!-- <th width="100%" height="0">
+</th>
+<th width="auto" height="0">
+</th> -->
 </tr>
 <tr>
-<td align="left" width="100%" height="1">
-<!-- <img width="5000" height="0"> -->
-<h5>Estrutura de Dados > Listas de Exercícios</h5>
+<td align="left">
+<small>Estrutura de Dados > Listas de Exercícios</small>
+<img width="5000" height="1">
 </td>
-<td align="right" width="auto" height="1">
-<!-- <img width="auto" height="0"> -->
-<h5>Prof.&nbsp;Eduardo&nbsp;Ono</h5>
+<td align="right">
+<small>Prof.&nbsp;Eduardo&nbsp;Ono</small>
+<img width="auto" height="1">
 </td>
 </tr>
 </table>
