@@ -1,15 +1,10 @@
 
-<h2></h2>
-<h5>Estrutura de Dados > Listas de Exercícios</h5>
-<h2></h2>
+| Estrutura de Dados > Listas de Exercícios | Prof. Eduardo Ono |
+| --- | --: |
 
 <h1 align="center">
 Lista 1 - Estruturas
 </h1>
-
-<h4 align="center">
-  Prof. Eduardo Ono
-</h4>
 
 <br>
 
