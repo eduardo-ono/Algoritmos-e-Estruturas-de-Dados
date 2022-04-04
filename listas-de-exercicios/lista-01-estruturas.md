@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td align="left" width="8000">
-<small>Estrutura de Dados > Listas de Exercícios</small>
+<small>Estrutura de Dados > Listas de Exercícios<img width="8000">04/04/2022</small>
 </td>
 </tr>
 </table>
