@@ -2,15 +2,11 @@
 <tr>
 <th align="left">
 <img width="10000" height="1">
-<p>
 Estrutura de Dados > Listas de Exercícios
-</p>
 </th>
 <th align="right">
 <img width="10000" height="1">
-<p>
 Prof. Eduardo Ono
-</p>
 </th>
 </tr>
 </table>
