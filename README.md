@@ -5,9 +5,14 @@ Estrutura de Dados
 <h4 align="center">
 Prof. Eduardo Ono
 </h4>
+
 <br>
 
+<p align="center">
 <img src="./figuras/capa.jpg" alt="img" width="300">
+</p>
+
+<br>
 
 ## Descrição
 
