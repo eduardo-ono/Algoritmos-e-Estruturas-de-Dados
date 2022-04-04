@@ -2,7 +2,7 @@
 <tr>
 <th align="left">
 <small>Estrutura de Dados > Listas de Exercícios</small>
-<img alt="teste" width="500" height="1" onerror='this.style.display = "none"'>
+<img alt="teste" width="500" height="1">
 </th>
 <th align="right">
 <small>Prof.&nbsp;Eduardo&nbsp;Ono</small>
