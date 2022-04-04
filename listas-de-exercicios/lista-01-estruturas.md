@@ -1,19 +1,13 @@
 <table>
 <tr>
-<!-- <th width="100%" height="0">
-</th>
-<th width="auto" height="0">
-</th> -->
-</tr>
-<tr>
-<td align="left">
+<th align="left">
 <small>Estrutura de Dados > Listas de Exercícios</small>
 <img width="5000" height="1">
-</td>
-<td align="right">
+</th>
+<th align="right">
 <small>Prof.&nbsp;Eduardo&nbsp;Ono</small>
-<img width="5000" height="1">
-</td>
+<img width="1" height="1">
+</th>
 </tr>
 </table>
 
