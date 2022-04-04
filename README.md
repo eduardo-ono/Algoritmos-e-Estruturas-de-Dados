@@ -16,11 +16,11 @@ Estruturas de dados dinâmicas, lineares e não lineares em linguagem C.
 
 | Aula | Data | Conteúdo |
 | :-:  | :-:  | ---      |
-| [01] | 18/02 | Introdução a Estrutura de Dados; Revisão dos pré-requisitos
-| [02] | 25/02 | Memória "Stack" e memória "Heap"; Alocação Dinâmica de Memória; Estruturas em C (struct)
+| [01] | 18/02 | Introdução a Estrutura de Dados; Revisão de Ponteiros
+| [02] | 25/02 | Estruturas (struct); Memória "Stack" e memória "Heap"; Alocação Dinâmica de Memória
 | [03] | 04/03 | Vetores Estáticos e Dinâmicos
 | [04] | 11/03 | CRUD com Vetores Dinâmicos
-| [05] | 18/03 | Listas Simplesmente Encadeadas; CRUD com Lista Encadeada
+| [05] | 18/03 | Listas Simplesmente Encadeadas; CRUD com Listas Encadeadas
 | [06] | 25/03 | Pilhas e Filas
 | [07] | 01/04 | Listas Duplamente Encadeadas; Listas Circulares e Revisão de Recursão
 | 08 | 08/04 | __1a. Avaliação__
@@ -30,7 +30,9 @@ Estruturas de dados dinâmicas, lineares e não lineares em linguagem C.
 | 12 | 20/05 | Algoritmos de Ordenação
 | 13 | 27/05 | Teoria dos Grafos
 | 14 | 03/06 | __2a. Avaliação__ (A ser confirmada)
-| 15 |  |
+| 15 |       | Hashing
+| 16 |       | Análise de Algoritmos; Notação Big-"O"
+| 17 |       | Introdução à Criptografia
 
 [01]: ./aulas/README.md#aula-01
 [02]: ./aulas/README.md#aula-02
@@ -73,7 +75,7 @@ Estruturas de dados dinâmicas, lineares e não lineares em linguagem C.
 | :-:  | ---    |
 | <img src="./referencias/capas/REESE_2013.jpg" alt="img" width="100px"> | <sup id="REESE_2013">[REESE_2013]</sup><br>REESE, Richard. __Understanding and Using C Pointers__, O'Reilly Media, 2013[.](https://app.box.com/s/cbp98oofhokip0yki3gh7khz6zb6htgq)
 | <img src="./referencias/capas/THAREJA-2e_2014.jpg" alt="img" width="100px"> | <sup id="THAREJA-2e_2014">[THAREJA-2e_2014]</sup><br>THAREJA, Reema; __Data Structures Using C__, New Delhi : Oxford University Press, 2014.
-| <img src="./referencias/capas/GRONER-2e_2018.png" alt="img" width="100px"> | <sup>[GRONER-2e_2018]</sup><br>GRONER, Loiane; __Estruturas de Dados e Algoritmos em JavaScript__, São Paulo : Novatec, 2018.
+| <img src="./referencias/capas/GRONER-2e_2018.png" alt="img" width="100px"> | <sup>[GRONER-2e_2018]</sup><br>GRONER, Loiane; __Estruturas de Dados e Algoritmos em JavaScript__, São Paulo : Novatec, 2018[.](https://app.box.com/s/ad9284w4gaxfyi3s6jtngy9i2wjnnx2k)
 
 <br>
 

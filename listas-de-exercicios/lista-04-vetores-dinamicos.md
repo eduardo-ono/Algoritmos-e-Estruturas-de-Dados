@@ -1,11 +1,22 @@
 
-<sup><hr></sup>
-##### Estrutura de Dados > Listas de Exercícios
-<sub><hr></sub>
+<table>
+<tr>
+<td align="left" width="8000">
+<small>Estrutura de Dados > Listas de Exercícios</small>
+</td>
+<td align="right">
+<small>Atualizado&nbsp;em:&nbsp;04/04/2022</small>
+</td>
+</tr>
+</table>
 
-# Lista 4 - Vetores Dinâmicos
+<h1 align="center">
+Lista 4 - Vetores Dinâmicos
+</h1>
 
+<h4 align="center">
 Prof. Eduardo Ono
+</h4>
 
 <br>
 

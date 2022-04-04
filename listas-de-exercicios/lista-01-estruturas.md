@@ -15,7 +15,9 @@
 Lista 1 - Estruturas
 </h1>
 
-<h4 align="center">Prof. Eduardo Ono</h4>
+<h4 align="center">
+Prof. Eduardo Ono
+</h4>
 
 <br>
 

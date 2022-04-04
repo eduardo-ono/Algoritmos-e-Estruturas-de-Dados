@@ -1,11 +1,22 @@
 
-<sub><hr></sub>
-##### [Estrutura de Dados](https://github.com/eduardo-ono/Estrutura-de-Dados) > Listas de Exercícios
-<sup><hr></sup>
+<table>
+<tr>
+<td align="left" width="8000">
+<small>Estrutura de Dados > Listas de Exercícios</small>
+</td>
+<td align="right">
+<small>Atualizado&nbsp;em:&nbsp;04/04/2022</small>
+</td>
+</tr>
+</table>
 
-# Lista 6 - Pilhas
+<h1 align="center">
+Lista 6 - Pilhas
+<h1>
 
+<h4 align="center">
 Prof. Eduardo Ono
+</h4>
 
 <br>
 

@@ -1,29 +1,38 @@
-> ##### Estrutura de Dados
+<table>
+<tr>
+<td align="left" width="8000">
+<small>Estrutura de Dados > Listas de Exercícios</small>
+</td>
+<td align="right">
+<small>Atualizado&nbsp;em:&nbsp;04/04/2022</small>
+</td>
+</tr>
+</table>
 
+<h1 align="center">
 # Listas de Exercícios
+</h1>
 
+<h4 align="center">
 Prof. Eduardo Ono
+</h4>
 
 <br>
 
-## Vetores (Arrays)
+* ### Fundamentos
 
-1. Implemente funções que recebam um vetor de inteiros e o número de elementos do vetor recebido. As funções não devem imprimir nenhum valor. Os objetivos das funções são:
+* ### [Lista 1 - Estruturas](./lista-01-estruturas.md)
 
-    1. Determinar o maior elemento do vetor.
+* ### [Lista 2 - Alocação Dinâmica de Memória](./lista-02-alocacao-dinamica-de-memoria.md)
 
-    1. Determinar o menor elemento do vetor.
+* ### [Lista 3 - Vetores Estáticos](./lista-03-vetores-estaticos.md)
 
-    1. Determinar o menor e o maior elemento do vetor.
+* ### [Lista 4 - Vetores Dinâmicos](./lista-04-vetores-dinamicos.md)
 
-    1. Determinar o maior índice do maior elemento do vetor.
+* ### [Lista 5 - Listas Simplesmente Encadeadas](./lista-05-listas-encadeadas-simples.md)
 
-    1. Determinar o menor índice do maior elemento do vetor.
-    
-    1. Determinar a soma dos elementros do vetor.
+* ### [Lista 6 - Pilhas](./lista-06-pilhas.md)
 
-    1. Determinar a média dos elementos do vetor.
+* ### [Lista 7 - Filas](./lista-07-filas.md)
 
-    1. Determinar o desvio padrão da média dos elementos do vetor.
-
-1. * https://download.inep.gov.br/educacao_superior/enade/provas/2017/13_ENG_COM_BACHAREL_BAIXA.pdf#page=24
+<br>
