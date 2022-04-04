@@ -1,12 +1,24 @@
 <table>
 <tr>
+<th align="left" width="8000">
+<small>Estrutura de Dados > Listas de Exercícios</small>
+</th>
+</tr>
+</table>
+
+| Estrutura de Dados > Listas de Exercícios<img width="8000"> |
+| --- |
+
+<table>
+<tr>
 <th align="left">
-<sub>Estrutura de Dados > Listas de Exercícios</sub>
-<img width="5000" height="1">
+<small>Estrutura de Dados > Listas de Exercícios</small>
+<sub><img width="5000" height="1"></sub>
 </th>
 <th align="right">
-<sub>Prof.&nbsp;Eduardo&nbsp;Ono</sub>
-<img width="100%" height="1">
+<small>Prof.&nbsp;Eduardo&nbsp;Ono</small>
+<sub><img width="100%" height="1"></sub>
+<hr>
 </th>
 </tr>
 </table>
