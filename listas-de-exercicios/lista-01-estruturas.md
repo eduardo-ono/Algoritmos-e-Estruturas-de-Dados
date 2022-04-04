@@ -1,7 +1,7 @@
 
 <h2></h2>
 <h5>Estrutura de Dados > Listas de Exercícios</h5>
-<h1></h1>
+<h2></h2>
 
 <h1 align="center">
 Lista 1 - Estruturas
