@@ -1,12 +1,10 @@
 <table>
 <tr>
 <th align="left">
-<small>Estrutura de Dados > Listas de Exercícios</small>
-<img alt="teste" width="500" height="1">
+<img alt="Estrutura de Dados > Listas de Exercícios" width="5000" height="1">
 </th>
 <th align="right">
-<small>Prof.&nbsp;Eduardo&nbsp;Ono</small>
-<img width="100%" height="20">
+<img alt="Prof.&nbsp;Eduardo&nbsp;Ono" width="100%" height="1">
 </th>
 </tr>
 </table>
