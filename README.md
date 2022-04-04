@@ -4,12 +4,11 @@ Prof. Eduardo Ono
 
 <br>
 
-<a href="https://www.youtube.com/watch?v=jaK4pn1jXTo&t=529s&lc=UgyM-knAQ03a-aBRzZB4AaABAg"><img src="https://img.youtube.com/vi/jaK4pn1jXTo/hqdefault.jpg" alt="img" width="250"></a>
-<a href="https://www.youtube.com/watch?v=iPq1ZTe8QtA&t=788s"><img src="https://img.youtube.com/vi/iPq1ZTe8QtA/hqdefault.jpg" alt="img" width="250"></a>
+<img src="./figuras/capa.jpg" alt="img" width="300">
 
 ## Descrição
 
-Estruturas de dados dinâmicas, lineares e não lineares.
+Estruturas de dados dinâmicas, lineares e não lineares em linguagem C.
 
 <br>
 
@@ -25,8 +24,8 @@ Estruturas de dados dinâmicas, lineares e não lineares.
 | [06] | 25/03 | Pilhas e Filas
 | [07] | 01/04 | Listas Duplamente Encadeadas; Listas Circulares e Revisão de Recursão
 | 08 | 08/04 | __1a. Avaliação__
-| 09 | 29/04 | Árvores; Árvores Binárias
-| 10 | 06/05 | Árvores Binárias de Busca
+| 09 | 29/04 | Ordenação
+| 10 | 06/05 | Árvores Binárias e Árvores Binárias de Busca
 | 11 | 13/05 | Árvores Balanceadas
 | 12 | 20/05 | Algoritmos de Ordenação
 | 13 | 27/05 | Teoria dos Grafos
@@ -54,6 +53,7 @@ Estruturas de dados dinâmicas, lineares e não lineares.
 ## Recursos
 
 * GCC (Compilador C/C++) e Depurador GDB
+
 * Microsoft Visual Studio Code (Editor)
 
 <br>
