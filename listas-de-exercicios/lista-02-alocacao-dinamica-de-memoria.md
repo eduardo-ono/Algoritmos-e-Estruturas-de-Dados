@@ -9,10 +9,11 @@
 </tr>
 </table>
 
+<br>
+
 <h1 align="center">
 Lista 2 - Alocação Dinâmica de Memória
 </h1>
-
 <h4 align="center">
 Prof. Eduardo Ono
 </h4>

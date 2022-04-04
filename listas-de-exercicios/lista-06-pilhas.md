@@ -10,10 +10,11 @@
 </tr>
 </table>
 
+<br>
+
 <h1 align="center">
 Lista 6 - Pilhas
-<h1>
-
+</h1>
 <h4 align="center">
 Prof. Eduardo Ono
 </h4>
