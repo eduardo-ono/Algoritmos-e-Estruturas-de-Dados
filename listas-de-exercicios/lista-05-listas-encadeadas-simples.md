@@ -32,6 +32,8 @@ Prof. Eduardo Ono
   } No;
   ```
 
+<br>
+
 ## Exercícios
 
 1. #### Escreva uma função que retorne o número de elementos (nós) de uma lista encadeada simples apontada por `lista`. O protótiopo da função deverá ser:
