@@ -1,13 +1,13 @@
 <table>
 <tr>
 <th align="left">
-<img width="1000" height="1">
+<img width="10000" height="1">
 <p>
 Estrutura de Dados > Listas de Exercícios
 </p>
 </th>
 <th align="right">
-<img width="auto" height="1">
+<img width="10000" height="1">
 <p>
 Prof. Eduardo Ono
 </p>
