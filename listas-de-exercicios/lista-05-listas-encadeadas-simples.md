@@ -46,9 +46,9 @@ Prof. Eduardo Ono
 
 3. Escreva uma função que faça uma cópia de uma lista simplesmente encadeada em uma segunda lista.
 
-4. Considere uma lista simplesmente encadeada que armazena apenas números inteiros e que os elementos estejam ordenados em ordem crescente. Escreva uma função que remove um elemento (nó) com valor `v` da lista. Caso nenhum elemento com este valor seja encontrado, a função deve retornar `0` (zero).
+4. Considere uma lista simplesmente encadeada que armazena apenas números inteiros e que os elementos estejam ordenados em ordem crescente. Escreva uma função que remove todos os elementos (nós) com valor "v" (fornecido pelo usuário) da lista. Caso nenhum elemento com este valor seja encontrado, a função deve retornar 0 (zero), caso contrário, deverá retornar o número de nós removidos.
 
-5. Considere uma lista simplesmente encadeada que armazena apenas números inteiros. Escreva uma função que verifica se os elementos dessa lista estão em ordem crescente. Em caso afirmativo, a função deverá retornar `true`. Caso contrário, deverá retornar `false`.<br>OBS.: Para utilizar valores booleanos, inclua no programa a biblioteca <stdbool.h>, disponível no padrão C99 em diante, que define o tipo `bool` e os valores `true` e `false`.
+5. Considere uma lista simplesmente encadeada que armazena apenas números inteiros. Escreva uma função que verifica se os elementos dessa lista estão em ordem crescente. Em caso afirmativo, a função deverá retornar `true`. Caso contrário, deverá retornar `false`.<br>OBS.: Para utilizar valores booleanos, inclua no programa a biblioteca `<stdbool.h>`, disponível no padrão C99 em diante, que define o tipo `bool` e os valores `true` e `false`.
 
 <br>
 
