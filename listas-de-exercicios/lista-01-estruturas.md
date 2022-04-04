@@ -1,7 +1,10 @@
 <table>
 <tr>
 <td align="left" width="8000">
-<small>Estrutura de Dados > Listas de Exercícios<img width="8000">04/04/2022</small>
+<small>Estrutura de Dados > Listas de Exercícios</small>
+</td>
+<td align="right">
+<small>Última&nbsp;atualização:&nbsp;04/04/2022</small>
 </td>
 </tr>
 </table>
