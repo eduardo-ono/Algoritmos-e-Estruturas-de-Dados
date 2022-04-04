@@ -1,15 +1,17 @@
 <table>
 <tr>
 <th align="left">
-<img width="10000" height="1">
-Estrutura de Dados > Listas de Exercícios
+<img width="5000" height="1">
+<sup>Estrutura de Dados > Listas de Exercícios</sup>
 </th>
 <th align="right">
-<img width="10000" height="1">
-Prof. Eduardo Ono
+<img width="5000" height="1">
+<sup>Prof. Eduardo Ono</sup>
 </th>
 </tr>
 </table>
+
+<br>
 
 <h1 align="center">
 Lista 1 - Estruturas
