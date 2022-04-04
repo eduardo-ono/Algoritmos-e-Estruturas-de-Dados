@@ -1,10 +1,10 @@
+<br>
 <h1 align="center">
 Estrutura de Dados
 </h1>
 <h4 align="center">
 Prof. Eduardo Ono
 </h4>
-
 <br>
 
 <img src="./figuras/capa.jpg" alt="img" width="300">
