@@ -36,7 +36,7 @@ Prof. Eduardo Ono
 
 ## Exercícios
 
-1. A Engenheira de Software [_Saldina Nurak_](https://ba.linkedin.com/in/codebeauty) (Google, Meta, EVONA) iniciou em 2020 um canal no YouTube chamado [_CodeBeauty_](https://www.youtube.com/channel/UCl5-BV9aRaeDVohpE4sqJiQ), sobre ensino de programação. Em 2021, em um de seus vídeos, ela atribuiu uma tarefa que consistiu na implementação de uma agenda eletrônica, utilizando e estrutura de dados fila. A melhor e mais criativa solução recebeu uma menção ("shoutout") no vídeo seguinte[.](https://www.youtube.com/watch?v=iPq1ZTe8QtA&t=788s) O Prof. Ono deu a sua contribuição e postou uma [solução](https://www.youtube.com/watch?v=jaK4pn1jXTo&t=529s&lc=UgyM-knAQ03a-aBRzZB4AaABAg), que pode ser encontrada nos comentários do vídeo.<br>Com base no programa postado (em linguagem C++), implemente uma versão equivalente em linguagem C.
+1. A Engenheira de Software [_Saldina Nurak_](https://ba.linkedin.com/in/codebeauty) (Google, Meta, EVONA) iniciou em 2020 um canal no YouTube chamado [_CodeBeauty_](https://www.youtube.com/channel/UCl5-BV9aRaeDVohpE4sqJiQ), sobre ensino de programação. Em 2021, em um de seus vídeos, ela propôs uma tarefa que consistiu na implementação de uma agenda eletrônica, utilizando e estrutura de dados fila. Basicamente, o programa deveria permitir o usuário adicionar e remover eventos, respeitando o critério FIFO ("First In, First Out"). A melhor e mais criativa solução recebeu uma menção ("shoutout") no vídeo seguinte[.](https://www.youtube.com/watch?v=iPq1ZTe8QtA&t=788s) O Prof. Ono deu a sua contribuição e postou uma [solução](https://www.youtube.com/watch?v=jaK4pn1jXTo&t=529s&lc=UgyM-knAQ03a-aBRzZB4AaABAg), que pode ser encontrada nos comentários do vídeo.<br>Com base no programa postado (em linguagem C++), implemente uma versão equivalente em linguagem C.
 
 * Solução postada:
 
@@ -56,7 +56,7 @@ int showMenu(string menuItens[], const int N)
     cout << "Option: ";
     int option = 0;
     cin >> option;
-    cin.ignore();
+    cin.ignore(); // Limpa o caractere '\n' do "input buffer"
     cout << endl;
 
     return option;
