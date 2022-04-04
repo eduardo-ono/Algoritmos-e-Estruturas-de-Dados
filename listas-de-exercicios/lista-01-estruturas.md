@@ -1,7 +1,7 @@
 <table>
 <tr>
-<th>
-<img width="800" height="1">
+<th align="left">
+<img width="1000" height="1">
 <p>
 Estrutura de Dados > Listas de Exercícios
 </p>
