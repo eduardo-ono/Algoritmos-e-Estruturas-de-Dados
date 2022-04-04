@@ -12,16 +12,12 @@
 
 <br>
 
-<table>
-<tr>
-<th width="8000">
-<h1 align="center">Lista 7 - Filas</h1>
+<h1 align="center">
+Lista 7 - Filas
+</h1>
 <h4 align="center">
 Prof. Eduardo Ono
 </h4>
-</th>
-</tr>
-</table>
 
 <br>
 
