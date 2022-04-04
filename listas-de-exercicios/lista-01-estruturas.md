@@ -12,7 +12,7 @@
 </td>
 <td align="right">
 <small>Prof.&nbsp;Eduardo&nbsp;Ono</small>
-<img width="auto" height="1">
+<img width="5000" height="1">
 </td>
 </tr>
 </table>
