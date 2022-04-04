@@ -42,13 +42,13 @@ Prof. Eduardo Ono
     int list_size(No *lista);
     ```
 
-2. Escreva uma função que inverta a ordem de uma lista encadeada simples apontada por `lista` (ou seja, o primeiro nó passa a ser o último, o segundo passa a ser o penúltimo, etc.). Nenhum nó auxiliar severá ser criado.
+2. Escreva uma função que inverta a ordem de uma lista encadeada simples apontada por `lista` (ou seja, o primeiro nó passa a ser o último, o segundo passa a ser o penúltimo, etc.). Nenhum nó auxiliar deverá ser criado.
 
 3. Escreva uma função que faça uma cópia de uma lista simplesmente encadeada em uma segunda lista.
 
-4. Considere uma lista simplesmente encadeada que armazena apenas números inteiros e que os elementos estejam ordenados em ordem crsecente. Escreva uma função que remove um elemento (nó) com valor `v` da lista. Caso nenhum elemento com este valor seja encontrado, a função deve retornar `0` (zero).
+4. Considere uma lista simplesmente encadeada que armazena apenas números inteiros e que os elementos estejam ordenados em ordem crescente. Escreva uma função que remove um elemento (nó) com valor `v` da lista. Caso nenhum elemento com este valor seja encontrado, a função deve retornar `0` (zero).
 
-5. Considere uma lista simplesmente encadeada que armazena apenas números inteiros. Escreva uma função que verifica se os elementos dessa lista estão em ordem crescente.
+5. Considere uma lista simplesmente encadeada que armazena apenas números inteiros. Escreva uma função que verifica se os elementos dessa lista estão em ordem crescente. Em caso afirmativo, a função deverá retornar `true`. Caso contrário, deverá retornar `false`.<br>OBS.: Para utilizar valores booleanos, inclua no programa a biblioteca <stdbool.h>, disponível no padrão C99 em diante, que define o tipo `bool` e os valores `true` e `false`.
 
 <br>
 
