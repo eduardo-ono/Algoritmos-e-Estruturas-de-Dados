@@ -1,6 +1,19 @@
-
-| Estrutura de Dados > Listas de Exercícios | Prof. Eduardo Ono |
-| --- | --: |
+<table>
+<tr>
+<th>
+<img width="75%" height="1">
+<p>
+Estrutura de Dados > Listas de Exercícios
+</p>
+</th>
+<th align="right">
+<img width="25%" height="1">
+<h4>
+Prof. Eduardo Ono
+</h4>
+</th>
+</tr>
+</table>
 
 <h1 align="center">
 Lista 1 - Estruturas
