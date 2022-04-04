@@ -21,7 +21,7 @@ Prof. Eduardo Ono
 
 <br>
 
-## Introdução
+## Informações
 
 * Para os exercícios a seguir, considere definida a seguinte estrutura:
 
