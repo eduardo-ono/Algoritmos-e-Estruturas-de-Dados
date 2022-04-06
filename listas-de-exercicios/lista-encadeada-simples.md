@@ -32,6 +32,7 @@ typedef struct no {
     struct no *prox;
 } No;
 ```
+
 1. Implemente uma função para inserir um novo evento no final da lista encadeada.
 
 1. Implemente uma função para inserir um novo evento no início da lista encadeada.
