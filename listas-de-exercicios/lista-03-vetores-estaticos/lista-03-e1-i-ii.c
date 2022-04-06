@@ -13,6 +13,9 @@ Comentários   :
 #include <math.h>
 #include <time.h>
 
+// Funções
+// No VS Code, posicionar o cursor sobre o nome da função e teclar F12 para "pular" para a implementação.
+
 int encontrarMaximo(int *, const int);
 int encontrarMinimo(int *, const int);
 void encontrarMaximoMinimo(int *, const int, int *, int *);
@@ -99,8 +102,9 @@ void encontrarMaximoMinimo(int v[], const int N, int *maximo, int *minimo)
 // Item vi) Calcula a soma dos elementos do vetor.
 float calcularSoma(int v[], const int N)
 {
-    float soma = 0;
+    float soma;
 
+    soma = 0;
     for (int i = 0; i < N; i++)
         soma = soma + v[i];
 
@@ -117,7 +121,7 @@ float calcularMedia(int v[], const int N)
     return media;
 }
 
-// item vii) Calcula o desvio padrão da média dos elementos do vetor.
+// item viii) Calcula o desvio padrão da média dos elementos do vetor.
 float calcularDesvioPadrao(int v[], const int N)
 {
     float media, somatorio, variancia, desvio_padrao;
