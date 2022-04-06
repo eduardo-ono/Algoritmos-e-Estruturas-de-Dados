@@ -69,7 +69,7 @@ typedef struct {
 * Criando uma variável do tipo `Data`:
 
 ```c
-Data independencia;
+Data independencia; // Não mais "struct data independencia" 
 
 independencia.dia = 7;
 independencia.mes = 9;
