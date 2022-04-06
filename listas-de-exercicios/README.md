@@ -22,18 +22,18 @@ Prof. Eduardo Ono
 
 * ### Fundamentos
 
-* ### [Lista 1 - Estruturas](./lista-01-estruturas.md)
+* ### [Lista 1 - Estruturas](./lista-01-estruturas/lista-01.md)
 
-* ### [Lista 2 - Alocação Dinâmica de Memória](./lista-02-alocacao-dinamica-de-memoria.md)
+* ### [Lista 2 - Alocação Dinâmica de Memória](./lista-02-alocacao-dinamica-de-memoria/lista-02.md)
 
-* ### [Lista 3 - Vetores Estáticos](./lista-03-vetores-estaticos.md)
+* ### [Lista 3 - Vetores Estáticos](./lista-03-vetores-estaticos/lista-03.md)
 
-* ### [Lista 4 - Vetores Dinâmicos](./lista-04-vetores-dinamicos.md)
+* ### [Lista 4 - Vetores Dinâmicos](./lista-04-vetores-dinamicos/lista-04.md)
 
-* ### [Lista 5 - Listas Simplesmente Encadeadas](./lista-05-listas-encadeadas-simples.md)
+* ### [Lista 5 - Listas Simplesmente Encadeadas](./lista-05-listas-encadeadas-simples/lista-05.md)
 
-* ### [Lista 6 - Pilhas](./lista-06-pilhas.md)
+* ### [Lista 6 - Pilhas](./lista-06-pilhas/lista-06.md)
 
-* ### [Lista 7 - Filas](./lista-07-filas.md)
+* ### [Lista 7 - Filas](./lista-07-filas/lista-07.md)
 
 <br>
