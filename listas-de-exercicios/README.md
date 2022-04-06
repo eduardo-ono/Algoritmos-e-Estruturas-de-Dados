@@ -30,7 +30,7 @@ Prof. Eduardo Ono
 
 * ### [Lista 4 - Vetores Dinâmicos](./lista-04-vetores-dinamicos/lista-04.md)
 
-* ### [Lista 5 - Listas Simplesmente Encadeadas](./lista-05-listas-encadeadas-simples/lista-05.md)
+* ### [Lista 5 - Listas Simplesmente Encadeadas](./lista-05-listas-simplesmente-encadeadas/lista-05.md)
 
 * ### [Lista 6 - Pilhas](./lista-06-pilhas/lista-06.md)
 
