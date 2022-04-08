@@ -8,6 +8,6 @@ Prof. Eduardo Ono
 
 ## Tópicos
 
-* ### [Lista Enacadeada Simples](./lista-simplesmente-encadeada/README.md)
+* ### [Lista Encadeada Simples](./lista-simplesmente-encadeada/README.md)
 
 * ### [Lista Duplamenete Encadeada](./lista-duplamente-encadeada/README.md)

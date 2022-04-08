@@ -42,9 +42,59 @@ Prof. Eduardo Ono
     int list_size(No *lista);
     ```
 
+    <details>
+    <summary>
+        <strong>Resolução</strong>
+    </summary>
+    <section markdown="1">
+    <sup><h2></h2></sup>
+
+    ```c
+    int list_size(No *lista)
+    {
+        int size;
+
+        for (size = 0; p != NULL; size++, lista = lista->prox);
+
+        return size;
+    }
+    ```
+
+    <sub><h2></h2></sub>
+    </section>
+    </details>
+
 2. Escreva uma função que inverta a ordem de uma lista encadeada simples apontada por `lista` (ou seja, o primeiro nó passa a ser o último, o segundo passa a ser o penúltimo, etc.). Nenhum nó auxiliar deverá ser criado.
 
 3. Escreva uma função que faça uma cópia de uma lista simplesmente encadeada em uma segunda lista.
+
+<details>
+<summary>
+  <strong>Resolução</strong>
+</summary>
+<section markdown="1">
+<sup><h2></h2></sup>
+
+```c
+No* copiarLista(No *lista1)
+{
+    No *lista2 = NULL, *p1 = lista1, *p2 = NULL, *novoNo = NULL;
+
+    if (lista1 == NULL)
+        return lista2;
+
+    while (p1 !=NULL) {
+        // Utiliza a função inserirNoFimDaLista() da biblioteca "linkedList.c".
+        lista2 = inserirNoFimDaLista(lista2, p1->info);
+        p1 = p1->prox;
+    }
+
+    return lista2;
+}
+```
+
+</section>
+</details>
 
 4. Considere uma lista simplesmente encadeada que armazena apenas números inteiros e que os elementos estejam ordenados em ordem crescente. Escreva uma função que remove todos os elementos (nós) com valor "v" (fornecido pelo usuário) da lista. Caso nenhum elemento com este valor seja encontrado, a função deve retornar 0 (zero), caso contrário, deverá retornar o número de nós removidos.
 

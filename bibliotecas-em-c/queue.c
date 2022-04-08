@@ -1,36 +1,17 @@
 /*
-Programa      : fila.c ("biblioteca")
+Programa      : queue.c ("biblioteca")
 Versão        : 1
 Descrição     : "Biblioteca" para implementação de filas.
 Desenvolvedor : Eduardo Ono
 Criado em     : 31/03/2022
-Atualizado em : 01/04/2022
+Atualizado em : 08/04/2022
 Comentários   : alpha
 */
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
-
-#ifndef FILA_C
-#define FILA_C
-
-#ifndef Info
-#define Info int
-#endif
-
-typedef struct no {
-    Info info;
-    struct no *prox; 
-} No;
-
-// Protótipos das funções
-// No VS Code, posicione o cursor sobre o nome da função e pressionando F12 para ser levado até a definição da função
-
-bool queue_isEmpty(No **);
-int queue_size(No **);
-void enqueue(No **, Info);
-Info dequeue(No **);
+#include "queue.h"
 
 // Verifica se uma fila está vazia.
 bool queue_isEmpty(No **pLista)
@@ -53,7 +34,7 @@ int queue_size(No **pLista)
 }
 
 // Insere Nó no fim da fila.
-void enqueue(No **pLista, Info info)
+void enqueue(No **pLista, INFO info)
 {
     No *novoNo, *p = *pLista;
 
@@ -75,10 +56,10 @@ void enqueue(No **pLista, Info info)
 }
 
 // Remove Nó do início da fila.
-Info dequeue(No **pLista)
+INFO dequeue(No **pLista)
 {
     No *p = *pLista;
-    Info info;
+    INFO info;
 
     if (queue_isEmpty(pLista))
         return info;
@@ -89,5 +70,3 @@ Info dequeue(No **pLista)
 
     return info;
 }
-
-#endif

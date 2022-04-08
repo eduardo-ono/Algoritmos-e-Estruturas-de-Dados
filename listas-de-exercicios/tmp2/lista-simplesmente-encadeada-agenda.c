@@ -19,10 +19,10 @@ typedef struct {
     Horario horario;
 } Evento; // Apontamento
 
-typedef Evento Info;
+typedef Evento INFO;
 
 typedef struct no {
-    Info info;
+    INFO info;
     struct no *prox;
 } No;
 
