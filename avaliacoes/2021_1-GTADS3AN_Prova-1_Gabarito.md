@@ -83,7 +83,7 @@ struct pessoa {
 
 ```c
 
-// A que se aproxima mais do conceito de "classe" em POO. 
+// A que mais se aproxima do conceito de "classe" em POO. 
 
 // Define o tipo "Data".
 typedef struct {
@@ -105,7 +105,7 @@ typedef struct {
 
 ## Questão 3
 
-* A função retorna o tempo total da _playlist_, ou seja, a soma do tempo de duração de todas as músicas armazenadas na lista.
+* A função retorna o tempo total em segundos da _playlist_, ou seja, a soma do tempo de duração de todas as músicas armazenadas na lista em segundos.
 
 <br>
 
