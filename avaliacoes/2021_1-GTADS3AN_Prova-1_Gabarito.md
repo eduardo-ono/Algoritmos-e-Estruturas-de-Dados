@@ -115,7 +115,7 @@ typedef struct {
 
 | Instrução | _v_ após execução da intrução |
 | --- | --- |
-| `for (int i = 0; i < 6; i ++)` &nbsp;&nbsp;&nbsp;&nbsp;`dequeue(v);` | 789
+| `for (int i = 0; i < 6; i ++)`<br>&nbsp;&nbsp;&nbsp;&nbsp;`dequeue(v);` | 789
 | `enqueue(v, 2);` | 7892
 | `enqueue(v, 5);` | 78925
 
