@@ -12,7 +12,7 @@
 <br>
 
 <h1 align="center">
-    Avaliação 1 - Gabarito
+    Prova 1 - Gabarito
 </h1>
 <h4 align="center">
 Prof. Eduardo Ono
@@ -24,7 +24,7 @@ Prof. Eduardo Ono
 
 | _n_ | Cálculos | _v_ | x |
 | :-: | --- | --- | :-: |
-| 1 | 2 x 0 / 1 | "Vazio" | 0 
+| 1 | 2 x 0 / 1 | 0 | 0 
 | 2 | 2 x 0 / 2 <br> 2 x 1 / 2 | 0 1 | 1 
 | 3 | 2 x 0 / 3 <br> 2 x 1 / 3 <br> 2 x 2 / 3 | 0 0 1 | 1
 | 4 | 2 x 0 / 4 <br> 2 x 1 / 4 <br> 2 x 2 / 4 <br> 2 x 3 / 4 | 0 0 1 1 | 2

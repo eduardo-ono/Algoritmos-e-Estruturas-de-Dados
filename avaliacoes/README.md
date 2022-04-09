@@ -22,7 +22,7 @@ Prof. Eduardo Ono
 
 ## 1a. Avaliação
 
-* [Avaliação em formato PDF](./2022_1-GTADS3AN_Prova-1.pdf)
+* [Prova em formato PDF](./2022_1-GTADS3AN_Prova-1.pdf)
 
 * [Gabarito](./2021_1-GTADS3AN_Prova-1_Gabarito.md)
 
