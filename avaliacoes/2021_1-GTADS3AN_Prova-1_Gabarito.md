@@ -128,6 +128,23 @@ typedef struct {
 * b) Supondo o RA = 123456789.
 
 ```c
+void armazenarNaPilha(No **pPilha)
+{
+    push(pPilha, 9);
+    push(pPilha, 8);
+    push(pPilha, 7);
+    push(pPilha, 6);
+    push(pPilha, 5);
+    push(pPilha, 4);
+    push(pPilha, 3);
+    push(pPilha, 2);
+    push(pPilha, 1);
+}
+```
+
+ou
+
+```c
 No* armazenarNaPilha(No *pilha)
 {
     pilha = push(pilha, 9);
@@ -141,23 +158,6 @@ No* armazenarNaPilha(No *pilha)
     pilha = push(pilha, 1);
 
     return pilha;
-}
-```
-
-ou
-
-```c
-void armazenarNaPilha(No **pilha)
-{
-    push(*pilha, 9);
-    push(*pilha, 8);
-    push(*pilha, 7);
-    push(*pilha, 6);
-    push(*pilha, 5);
-    push(*pilha, 4);
-    push(*pílha, 3);
-    push(*pilha, 2);
-    push(*pilha, 1);
 }
 ```
 
