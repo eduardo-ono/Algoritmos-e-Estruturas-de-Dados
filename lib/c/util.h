@@ -1,8 +1,8 @@
 #include <stdbool.h>
 #include <windows.h>
 
-#ifndef TERMINAL_H
-#define TERMINAL_H
+#ifndef UTIL_H
+#define UTIL_H
 
 void clrscr();
 void delay(int);

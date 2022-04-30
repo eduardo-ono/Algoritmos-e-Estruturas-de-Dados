@@ -4,7 +4,7 @@
   <small>Estrutura de Dados</small>
 </td>
 <td align="right">
-  <small>Atualizado&nbsp;em:&nbsp;28/04/2022</small>
+  <small>Atualizado&nbsp;em:&nbsp;30/04/2022</small>
 </td>
 </tr>
 </table>
@@ -12,7 +12,7 @@
 <br>
 
 <h1 align="center">
-Lista de Exercícios Adicional
+Atividade Adicional
 </h1>
 <h4 align="center">
 Prof. Eduardo Ono
@@ -22,7 +22,7 @@ Prof. Eduardo Ono
 
 ## Instruções para os exercícios
 
-&nbsp;&nbsp;&nbsp;&nbsp;No final da lista, consta uma relação de várias estruturas `struct` numeradas de 0 a 9. Em cada exercício deverá ser utilizada uma dessas estruturas, correspondendo ao último dígito de seu RA.
+&nbsp;&nbsp;&nbsp;&nbsp;No final da lista há uma relação de várias estruturas (struct) numeradas de 0 a 9. Em cada exercício deverá ser utilizada uma dessas estruturas, correspondendo ao último dígito de seu RA.
 
 <br>
 
@@ -61,7 +61,7 @@ int main()
 
 &nbsp;&nbsp;&nbsp;&nbsp;Deverá ser realizado o cadastro de, pelo menos, 10 produtos (podem ser fictícios, porém consistentes), sendo que o cadastro deverá ser exportado para um arquivo no formato CSV e entregue junto com o programa.
 
-* __Referência de projeto parcialmente implementado para apoio na atividade__:
+* __Referência de um projeto similar parcialmente implementado para apoio na atividade__:
 
   * [proj-crud-paciente](../projetos-em-c/vetores-dinamicos/proj-crud-paciente/)
 
@@ -201,7 +201,7 @@ Samuel.
 typedef struct {
     char marca[30];
     char modelo[30];
-    char tipo[30]; // acústico, eletroacústico
+    char tipo[30]; // acústico, eletroacústico, etc.
     int ano_fabricacao;
     bool cutaway; // default = 0
     int cor; // 0xRRGGBB - O usuário deve entrar a cor no formato decimal RGB (8-bit). Exemplo: 255, 255, 0 (amarelo)
