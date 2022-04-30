@@ -8,4 +8,6 @@ typedef struct paciente {
     float imc;
 } Paciente;
 
+#define INFO Paciente
+
 #endif

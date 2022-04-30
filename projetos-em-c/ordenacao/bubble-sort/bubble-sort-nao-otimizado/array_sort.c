@@ -9,21 +9,9 @@ Comentários   : Por enquanto, apenas para elementos numéricos.
 */
 
 #include <stdio.h>
-#include <time.h>
 #include "array_sort.h"
 
 static void _trocar(INFO *, INFO *);
-
-// Inicializa (popula) um vetor de inteiros com valores aleatórios.
-void array_inicializarVetorInt(int v[], const unsigned int N, int max)
-{
-    // "Semente" para o rand()
-    srand(time(0));
-    for (unsigned int i = 0; i < N; i++)
-    {
-        v[i] = rand() % max;
-    }
-}
 
 // Algoritmo "BubbleSort" otimizado.
 void array_bubbleSort(INFO v[], const unsigned int N)

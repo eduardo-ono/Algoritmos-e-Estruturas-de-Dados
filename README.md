@@ -66,6 +66,8 @@ Estruturas de dados dinâmicas, lineares e não lineares em linguagem C.
 
 * Microsoft Visual Studio Code (Editor)
 
+* https://programacaodescomplicada.wordpress.com/complementar/
+
 <br>
 
 ## Material de Apoio

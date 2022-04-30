@@ -12,10 +12,10 @@ void listarPacientes(Paciente v[], const int N)
         return;
     }
 
-    printf("Index | %-30s | Peso (kg) | Altura (m) | IMC\n", "Nome");
-    printf("________________________________________\n\n");
+    printf(" %cndice | %-30s | Peso (kg) | Altura (m) | IMC\n", 214, "Nome");
+    printf("------------------------------------------------------------------------\n");
     for (i = 0; i < N; i++)
-        printf("%5d | %-30s |   %5.1f   |    %4.2f    | %4.1f\n", i, v[i].nome, v[i].peso, v[i].altura, v[i].imc);
+        printf("%7d | %-30s |   %5.1f   |    %4.2f    | %4.1f\n", i, v[i].nome, v[i].peso, v[i].altura, v[i].imc);
     printf("\n");
 }
 
@@ -50,8 +50,9 @@ int removerPaciente()
 {
     int index = -1;
 
-    printf("Entre com o index do paciente a ser removido: ");
+    printf("Entre com o %cndice do paciente a ser removido ou -1 para cancelar a opera%c%co: ", 161, 135, 198);
     scanf("%d", &index);
+    getchar();
 
     return index;
 }

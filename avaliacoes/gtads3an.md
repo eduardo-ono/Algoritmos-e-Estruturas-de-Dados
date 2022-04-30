@@ -61,6 +61,10 @@ int main()
 
 &nbsp;&nbsp;&nbsp;&nbsp;Deverá ser realizado o cadastro de, pelo menos, 10 produtos (podem ser fictícios, porém consistentes), sendo que o cadastro deverá ser exportado para um arquivo no formato CSV e entregue junto com o programa.
 
+* __Referência de projeto parcialmente implementado para apoio na atividade__:
+
+  * [proj-crud-paciente](../projetos-em-c/vetores-dinamicos/proj-crud-paciente/)
+
 <br>
 
 ## Exercício 2
