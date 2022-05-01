@@ -1,7 +1,16 @@
+/*
+Programa      : arrayList
+Versão        : 1.0
+Descrição     : Biblioteca para vetores dinâmicos.
+Desenvolvedor : Eduardo Ono
+Criado em     : 11/03/2022
+Atualizado em : 01/05/2022
+Comentários   :
+*/
 
 #include "arrayList.h"
 
-INFO *adicionarNoFimArray(INFO v[], int *v_length, INFO info)
+INFO *array_adicionarNoFim(INFO v[], int *v_length, INFO info)
 {
     int n = *v_length;
 
@@ -10,20 +19,23 @@ INFO *adicionarNoFimArray(INFO v[], int *v_length, INFO info)
     else
         v = (INFO *)realloc(v, (n + 1) * sizeof *v);
     if (v == NULL)
+    {
+        *v_length = 0;
         return NULL;
+    }
     v[n] = info;
     (*v_length)++;
 
     return v;
 }
 
-INFO *removerElementoArray(INFO v[], int *v_length, int index)
+INFO *array_removerElemento(INFO v[], int *v_length, int index)
 {
     int n = *v_length, i;
     INFO *p;
 
-    // Validaçao do index
-    if (index < 0 || index >= n)
+    // Validação do index
+    if (index < 0 || index > n)
         return v;
 
     if (index == 0)
@@ -44,10 +56,11 @@ INFO *removerElementoArray(INFO v[], int *v_length, int index)
     return v;
 }
 
-INFO *limparArray(INFO v[], int *v_length)
+INFO *array_limpar(INFO v[], int *v_length)
 {
     free(v);
+    v = NULL;
     *v_length = 0;
 
-    return NULL;
+    return v;
 }
