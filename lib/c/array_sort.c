@@ -34,13 +34,11 @@ void array_bubbleSort(INFO v[], const unsigned int N)
     {
         trocou = false;
         for (int i = 0; i < N - 1 - varredura; i++)
-        {
             if (ARRAY_COMPARAR(v[i], v[i + 1]))
             {
                 _trocar(&v[i], &v[i + 1]);
                 trocou = true;
             }
-        }
     }
 }
 

@@ -32,12 +32,12 @@ Estruturas de dados dinâmicas, lineares e não lineares em linguagem C.
 | [06] | 25/03 | Pilhas e Filas
 | [07] | 01/04 | Listas Duplamente Encadeadas; Listas Circulares e Revisão de Recursão
 | 08 | 08/04 | __1a. Avaliação__
-| 09 | 29/04 | Ordenação
-| 10 | 06/05 | Árvores Binárias e Árvores Binárias de Busca
-| 11 | 13/05 | Árvores Balanceadas
-| 12 | 20/05 | Algoritmos de Ordenação
-| 13 | 27/05 | Teoria dos Grafos
-| 14 | 03/06 | __2a. Avaliação__ (A ser confirmada)
+| 09 | 29/04 | Ordenação; Algoritmo Bubble Sort em vetores
+| 10 | 06/05 | Revisão de Recursão; Funções Recursivas
+| 11 | 13/05 | Árvores Binárias e Árvores Binárias de Busca
+| 12 | 20/05 | 
+| 13 | 27/05 | Introdução à Teoria dos Grafos
+| 14 | 10/06 | __2a. Avaliação__ (A ser confirmada)
 | 15 |       | Hashing
 | 16 |       | Análise de Algoritmos; Notação Big-"O"
 | 17 |       | Introdução à Criptografia
@@ -95,6 +95,7 @@ Estruturas de dados dinâmicas, lineares e não lineares em linguagem C.
 
 | Capa | Título |
 | :-:  | ---    |
+| <img src="./referencias/capas/ASCENCIO_2010.jpg" alt="img" width="100px"> | <sup id="ASCENCIO_2010">[ASCENCIO_2010]</sup><br>ASCENCIO, Ana Fernanda Gomes; ARAÚJO, Graziela Santos de. __Estruturas de Dados: Algoritmos, Análise da Complexidade e Implementações em JAVA e C/C++__. São Paulo: Pearson Prentice Hall, 2010.<br><sub>https://www.bvirtual.com.br/NossoAcervo/Publicacao/1995</sub>
 | <img src="./referencias/capas/THAREJA-2e_2014.jpg" alt="img" width="100px"> | <sup id="THAREJA-2e_2014">[THAREJA-2e_2014]</sup><br>THAREJA, Reema. __Data Structures Using C__. New Delhi: Oxford University Press, 2014.
 | <img src="./referencias/capas/LOUDON_1999.jpg" alt="img" width="100px"> | <sup id="LOUDON_1999">[LOUDON_1999]</sup><br>LOUDON, Kyle. __Mastering Algorithms with C__. Sebastopol: O’Reilly Media, 1999.
 | <img src="./referencias/capas/REESE_2013.jpg" alt="img" width="100px"> | <sup id="REESE_2013">[REESE_2013]</sup><br>REESE, Richard. __Understanding and Using C Pointers__. O'Reilly Media, 2013[.](https://app.box.com/s/cbp98oofhokip0yki3gh7khz6zb6htgq)
