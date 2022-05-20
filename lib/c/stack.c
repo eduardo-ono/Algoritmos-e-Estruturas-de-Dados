@@ -1,5 +1,3 @@
-#include <stdlib.h>
-#include <stdbool.h>
 #include "stack.h"
 
 // Verifica se uma lista encadeada está vazia.

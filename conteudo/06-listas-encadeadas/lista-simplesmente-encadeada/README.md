@@ -1,8 +1,25 @@
-> ##### Estrutura de Dados > Conteúdo > Listas Encadeadas
+<table>
+<tr>
+<td align="left" width="8000">
+  <small>Estrutura de Dados > Conteúdo > Listas Encadeadas</small>
+</td>
+<td align="right">
+  <small>Atualizado&nbsp;em:&nbsp;17/05/2022</small>
+</td>
+</tr>
+</table>
 
-# Lista Simplesmente Encadeada
+<br>
 
+<h1 align="center">
+
+Listas Simplesmente Encadeadas
+
+</h1>
+
+<h4 align="center">
 Prof. Eduardo Ono
+</h4>
 
 <br>
 
@@ -12,13 +29,13 @@ Prof. Eduardo Ono
 
 <br>
 
-## Definição da Estrutura Nó
+## Definição da Estrutura NÓ
 
 ```c
 typedef struct no {
     Info info;
     struct no *prox;
-} No;
+} NO;
 ```
 
 <br>
@@ -41,6 +58,8 @@ typedef struct no {
 
 1. Atribuir novo Nó ao "head" ("head" irá apontar para o novo Nó); 
 
+<br>
+
 ### Função para inserir um novo Nó no início de uma lista encadeada:
 
 ```c
@@ -62,6 +81,8 @@ No* inserirNoInicioDaLista(No *lista, Info info)
 }
 ```
 
+<br>
+
 ### Inserir no Final da Lista
 
 1. Alocar espaço na memória "heap" para o novo Nó (novo elemento da lista);
@@ -76,7 +97,9 @@ No* inserirNoInicioDaLista(No *lista, Info info)
 
 1. Se a lista não estiver vazia, buscar o último elemento da lista. Supondo `p` apontando para o último elemento, fazer `p->prox` apontar para o novo Nó;
 
-### Função para adicionar um novo Nó no fim de uma lista encadeada:
+<br>
+
+* ### Função para adicionar um novo Nó no fim de uma lista encadeada:
 
 ```c
 No* adicionarNoFimDaLista(No *lista, Info info)
@@ -101,10 +124,9 @@ No* adicionarNoFimDaLista(No *lista, Info info)
 }
 ```
 
-### Adicionar no Meio da Lista
+<br>
 
-1. Requisitos: Lista do tipo Nó (`lista` aponta para o primiro elemento da lista encadeada), posição de inserção, registro com os dados a serem atribuídos ao novo Nó;
+### Remover um nó de uma posição da lista
 
-1. Continua...
 
 <br>

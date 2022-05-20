@@ -4,12 +4,14 @@ Versão        : 1
 Descrição     : Agenda para registro de eventos.
 Desenvolvedor : Eduardo Ono
 Criado em     : 31/03/2022
-Atualizado em : 01/04/2022
+Atualizado em : 18/05/2022
 Comentários   : Utiliza filas para armazenamento dos eventos.
 */
 
 #include <stdio.h>
 #include <stdlib.h>
+#include "../../../lib/c/util.h"
+#include "../../../lib/c/util.c"
 
 typedef struct data {
     int dia;
@@ -30,75 +32,64 @@ typedef struct evento {
 
 } Evento;
 
-#define Info Evento 
+#define INFO Evento 
+#include "../../../lib/c/queue.h"
+#include "../../../lib/c/queue.c"
 
-#include "../_lib/stack.c"
-
-int showMenu(char **, const int);
-
-void imprimirPilha(No **pLista)
-{
-    if (queue_isEmpty())
-    {
-        cout << "You've finished all your tasks!" << endl;
-        return;
-    }
-    cout << "Tasks:" << endl;
-    while (!queue.empty())
-    {
-        cout << queue.front() << endl;
-        queue.pop();
-    }
-}
+void imprimirTarefas(No *lista);
 
 int main()
 {
-    const int N = 4;
-    string menuItens[] = { // "Exit" must be the last option
-        "Show tasks",
-        "Add task",
-        "Delete task",
-        "Exit"
+    const int N_MENU = 4;
+    char *menuItens[] = { // "Exit" must be the last option
+        "[0] Exibir tarefas",
+        "[1] Adicionar tarefas",
+        "[2] Apagar tarefas",
+        "[X] Sair"
     };
-    queue<string> myTasks;
-    int option;
+    No *agenda = NULL;
+    int opcao;
+    char tarefa[100];
+
     do {
-        string newTask;
-        option = showMenu(menuItens, N);
-        switch (option)
+        opcao = exibirMenu(menuItens, N_MENU);
+        switch (opcao)
         {
             case 0 :
-                printQueue(myTasks);
+                imprimirTarefas(agenda);
                 break;
             case 1 :
-                cout << "Enter a new task: ";
-                getline(cin, newTask);
-                myTasks.push(newTask);
+                puts("Entre com uma nova tarefa: ");
+                gets(tarefa);
+                agenda = enqueue(&agenda, info);
                 break;
             case 2:
-                if (!myTasks.empty())
+                if (!queue_isEmpty(agenda))
                 {
-                    cout << "Deleting " << myTasks.front() << "..." << endl;
-                    myTasks.pop();
+                    puts("Apagando tarefa...");
+                    dequeue(agenda);
                 }
                 else
-                    cout << "No tasks found!" << endl;
+                    puts("Nenhuma tarefa encontrada!");
                 break;
         }
-    } while (option != (N-1)); // "Exit" must be the last option
+    } while (opcao != 'X'); // "Exit" must be the last option
+
     return 0;
 }
 
-int showMenu(char **menuItens, const int N)
+void imprimirTarefas(No *lista)
 {
-    int i, option = 0;
-
-    printf("\n");
-    printf("----- MENU -----\n");
-    for (i = 0; i < N; i++)
-        printf("[%d] %s\n", i, menuItens[i]);
-    printf("Option: ");
-    scanf("%d", &option);
-
-    return option;
+    No *p = lista;
+    if (queue_isEmpty(lista))
+    {
+        puts("Todas as tarefas finalizadas!");
+        return;
+    }
+    puts("Tasks:");
+    while (!queue_isEmpty(lista))
+    {
+        printf("%s\n", p->info.titulo);
+        p = p->prox;
+    }
 }

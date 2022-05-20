@@ -38,6 +38,7 @@ Prof. Eduardo Ono
 
 | Thumb | Descrição |
 | :-: | --- |
-| [![img](https://img.youtube.com/vi/l8LgRx1Lqs0/default.jpg)](https://youtu.be/l8LgRx1Lqs0) | <sup>[Lucas Montano]</sup> [Programador que não sabe Algoritmo \| BigO \| Estrutura de Dados \| Complexidade](https://www.youtube.com/watch?v=l8LgRx1Lqs0)<br><sub>(1:01:13, YouTube, Out/2019)</sub>
+| [![img](https://img.youtube.com/vi/l8LgRx1Lqs0/default.jpg)](https://youtu.be/l8LgRx1Lqs0) | <sup>[Lucas Montano]</sup><br>[Programador que não sabe Algoritmo \| BigO \| Estrutura de Dados \| Complexidade](https://www.youtube.com/watch?v=l8LgRx1Lqs0)<br><sub>(1:01:13, YouTube, Out/2019)</sub>
+| [![img](https://img.youtube.com/vi/GUanHEGlje4/default.jpg)](https://youtu.be/GUanHEGlje4) | <sup>[Alura Cursos Online]</sup><br>[Como desenvolver boas práticas de programação? com Fabio Akita](https://www.youtube.com/watch?v=GUanHEGlje4)<br><sub>(36:11, YouTube, Nov/2021)</sub>
 
 <br>

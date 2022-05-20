@@ -22,7 +22,7 @@ void imprimirEDR(NO *arvore);
 int main()
 {
     NO *arvore = NULL;
-    int num;
+    int num, num_nos;
 
     do
     {
@@ -38,6 +38,8 @@ int main()
     printf("\n\n");
     imprimirEDR(arvore);
     printf("\n\n");
+    num_nos = bst_size(arvore);
+    printf("Numero de nos = %d\n", num_nos);
     return 0;
 }
 

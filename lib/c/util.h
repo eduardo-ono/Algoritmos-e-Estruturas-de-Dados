@@ -5,6 +5,7 @@
 #define UTIL_H
 
 void clrscr();
+char exibirMenu(char **, const int);
 void delay(int);
 void gotoxy(int, int);
 void hideCursor(bool);

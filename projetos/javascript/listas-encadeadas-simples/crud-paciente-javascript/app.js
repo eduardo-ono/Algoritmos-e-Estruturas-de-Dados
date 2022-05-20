@@ -5,14 +5,14 @@ class Info {
     this.altura = altura;
     this.imc = peso / altura ** 2;
   }
-}
+} // Info
 
 class NO {
   constructor(info, prox = null) {
     this.info = info;
     this.prox = prox;
   }
-}
+} // NO
 
 class LinkedList {
   constructor() {
@@ -53,10 +53,11 @@ class LinkedList {
       p = p.prox;
     }
   }
-}
+} // LinkedList
 
 const lista = new LinkedList();
 lista.inserirNoFim(new Info('Fulano de Tal', 68, 1.71));
 lista.inserirNoFim(new Info('Ciclano de Tal', 83, 1.78));
+lista.inserirNoInicio(new Info('Beltrano de Tal', 81, 1.74));
 // console.log(lista);
 lista.imprimir();

@@ -12,6 +12,7 @@ typedef struct no
     struct no *dir;
 } NO;
 
+int bst_size(NO *arvore);
 NO *bst_add(NO *arvore, INFO info);
 
 #endif
