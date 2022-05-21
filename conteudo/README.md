@@ -66,9 +66,9 @@ Prof. Eduardo Ono
 
 * ### Árvores
 
-  * #### Árvores
-
   * #### Árvores Binárias
+
+    * ##### Árvore Binária de Busca (BST)
 
   * #### Árvores AVL
 

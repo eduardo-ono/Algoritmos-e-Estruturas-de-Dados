@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td align="left" width="8000">
-  <small>Estrutura de Dados > Conteúdo > Árvores</small>
+  <small>Estrutura de Dados</small>
 </td>
 <td align="right">
   <small>Atualizado&nbsp;em:&nbsp;21/05/2022</small>
@@ -13,7 +13,7 @@
 
 <h1 align="center">
 
-Árvore Binária de Busca
+Teoria dos Grafos
 
 </h1>
 
@@ -23,8 +23,6 @@ Prof. Eduardo Ono
 
 <br>
 
-## Recursos
-
-* https://www.cs.usfca.edu/~galles/visualization/BST.html
+Prof. Eduardo Ono
 
 <br>

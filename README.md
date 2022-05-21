@@ -26,7 +26,7 @@ Estruturas de dados dinâmicas, lineares e não lineares em linguagem C.
 | :-:  | :-:  | ---      |
 | [01] | 18/02 | Introdução a Estrutura de Dados; Revisão de Ponteiros
 | [02] | 25/02 | Estruturas (struct); Memória "Stack" e memória "Heap"; Alocação Dinâmica de Memória
-| [03] | 04/03 | Vetores Estáticos e Dinâmicos
+| [03] | 04/03 | Vetores Estáticos e Vetores Dinâmicos
 | [04] | 11/03 | CRUD com Vetores Dinâmicos
 | [05] | 18/03 | Listas Simplesmente Encadeadas; CRUD com Listas Encadeadas
 | [06] | 25/03 | Pilhas e Filas
@@ -35,8 +35,9 @@ Estruturas de dados dinâmicas, lineares e não lineares em linguagem C.
 | 09 | 29/04 | Ordenação; Algoritmo Bubble Sort em vetores
 | 10 | 06/05 | Revisão de Recursão; Funções Recursivas
 | 11 | 13/05 | Árvores Binárias e Árvores Binárias de Busca
-| 12 | 20/05 | 
-| 13 | 27/05 | Introdução à Teoria dos Grafos
+| 12 | 20/05 | Introdução à Árvores AVL
+| 13 | 27/05 | Avaliação Integrada
+| 14 | 03/06 | Funções de Callback; Introdução à Teoria dos Grafos e Teorema do Caminho Mínimo (Dijkstra)
 | 14 | 10/06 | __2a. Avaliação__ (A ser confirmada)
 | 15 |       | Hashing
 | 16 |       | Análise de Algoritmos; Notação Big-"O"
