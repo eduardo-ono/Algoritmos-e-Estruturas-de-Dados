@@ -52,7 +52,7 @@ class LinkedList {
       return;
 
     let p = this.head;
-    let prev; // "Ponteiro" para e nó anterior a "p" ("aponta" para o nó anterior ao nó apontado por "p")
+    let prev; // "Ponteiro" para o nó anterior a "p" ("aponta" para o nó anterior ao nó apontado por "p")
     // Remove o nó do início da lista (idx == 0)
     if (idx === 0) {
       this.head = p.prox;
