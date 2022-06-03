@@ -4,7 +4,7 @@
   <small>Estrutura de Dados</small>
 </td>
 <td align="right">
-  <small>Atualizado&nbsp;em:&nbsp;21/05/2022</small>
+  <small>Atualizado&nbsp;em:&nbsp;03/06/2022</small>
 </td>
 </tr>
 </table>
@@ -23,6 +23,22 @@ Prof. Eduardo Ono
 
 <br>
 
-Prof. Eduardo Ono
+## Conceitos
+
+* https://www.youtube.com/watch?v=djN4d_WPuvc
+
+<br>
+
+## Algoritmo de Dijkstra
+
+### Material de Apoio
+
+* https://neps.academy/br/course/8/lesson/195
+
+* https://www.freecodecamp.org/portuguese/news/algoritmo-de-caminho-de-custo-minimo-de-dijkstra-uma-introducao-detalhada-e-visual/
+
+### Vídeos de Apoios
+
+* https://www.youtube.com/watch?v=hsJBilAiZDY
 
 <br>

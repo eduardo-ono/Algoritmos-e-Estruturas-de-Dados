@@ -26,18 +26,18 @@ Estruturas de dados dinâmicas, lineares e não lineares em linguagem C.
 | :-:  | :-:  | ---      |
 | [01] | 18/02 | Introdução a Estrutura de Dados; Revisão de Ponteiros
 | [02] | 25/02 | Estruturas (struct); Memória "Stack" e memória "Heap"; Alocação Dinâmica de Memória
-| [03] | 04/03 | Vetores Estáticos e Vetores Dinâmicos
-| [04] | 11/03 | CRUD com Vetores Dinâmicos
-| [05] | 18/03 | Listas Simplesmente Encadeadas; CRUD com Listas Encadeadas
-| [06] | 25/03 | Pilhas e Filas
-| [07] | 01/04 | Listas Duplamente Encadeadas; Listas Circulares e Revisão de Recursão
+| [03] | 04/03 | [Vetores Estáticos][] e [Vetores Dinâmicos]
+| [04] | 11/03 | [CRUD com Vetores Dinâmicos][]
+| [05] | 18/03 | [Listas Simplesmente Encadeadas](./conteudo/07-listas-encadeadas/lista-simplesmente-encadeada/README.md); [CRUD com Lista Encadeada](./projetos/c/README.md)
+| [06] | 25/03 | [Pilhas e Filas](./conteudo/08-pilhas-e-filas/README.md)
+| [07] | 01/04 | Listas Duplamente Encadeadas; Listas Circulares e [Revisão de Recursão](./conteudo/10-recursividade/README.md)
 | 08 | 08/04 | __1a. Avaliação__
-| 09 | 29/04 | Ordenação; Algoritmo Bubble Sort em vetores
-| 10 | 06/05 | Revisão de Recursão; Funções Recursivas
-| 11 | 13/05 | Árvores Binárias e Árvores Binárias de Busca
+| 09 | 29/04 | [Busca e Ordenação](./conteudo/09-busca-ordenacao/README.md); [Algoritmo Bubble Sort em vetores](./conteudo/09-busca-ordenacao/algoritmos/bubble-sort/README.md)
+| 10 | 06/05 | [Revisão de Recursão](./conteudo/10-recursividade/README.md); Funções Recursivas
+| 11 | 13/05 | [Conceito de Árvore](./conteudo/11-arvores/README.md); Árvores Binárias e [Árvore Binária de Busca](./conteudo/11-arvores/arvore-binaria-de-busca/README.md)
 | 12 | 20/05 | Introdução à Árvores AVL
 | 13 | 27/05 | Avaliação Integrada
-| 14 | 03/06 | Funções de Callback; Introdução à Teoria dos Grafos e Teorema do Caminho Mínimo (Dijkstra)
+| 14 | 03/06 | Funções de Callback; Introdução à [Teoria dos Grafos](https://github.com/eduardo-ono/Teoria-dos-Grafos/) e Teorema do Caminho Mínimo (Dijkstra)
 | 14 | 10/06 | __2a. Avaliação__ (A ser confirmada)
 | 15 |       | Hashing
 | 16 |       | Análise de Algoritmos; Notação Big-"O"
@@ -50,6 +50,10 @@ Estruturas de dados dinâmicas, lineares e não lineares em linguagem C.
 [05]: ./aulas/README.md#aula-05
 [06]: ./aulas/README.md#aula-06
 [07]: ./aulas/README.md#aula-07
+
+[Vetores Estáticos]: ./conteudo/04-vetores-estaticos/README.md
+[Vetores Dinâmicos]: ./conteudo/06-vetores-dinamicos/README.md
+[CRUD com Vetores Dinâmicos]: ./projetos/c/vetores-dinamicos/proj-crud-paciente/
 
 <br>
 
@@ -65,7 +69,7 @@ Estruturas de dados dinâmicas, lineares e não lineares em linguagem C.
 
 * GCC (Compilador C/C++) e Depurador GDB
 
-* Microsoft Visual Studio Code (Editor)
+* Microsoft Visual Studio Code (Editor) ou Dev-C++ (IDE)
 
 * https://programacaodescomplicada.wordpress.com/complementar/
 
@@ -88,7 +92,8 @@ Estruturas de dados dinâmicas, lineares e não lineares em linguagem C.
 | <img src="./referencias/capas/TENENBAUM_1995.jpg" alt="img" width="100px"> | <sup id="TENENBAUM_1995">[TENENBAUM_1995]</sup><br>TENENBAUM, Aaron M.; LANGSAM, Yedidyah; AUGENSTEIN, Moshe J.  <strong>[Estruturas de Dados Usando C](https://www.cin.ufpe.br/~garme/public/(ebook)Estruturas%20de%20Dados%20Usando%20C%20(Tenenbaum).pdf)</strong>. 1. ed. São Paulo: MAKRON Books, 1995.
 | <img src="./referencias/capas/BACKES_2016.jpg" alt="img" width="100px"> | <sup id="BACKES_2016">[BACKES_2016]</sup><br>BACKES, André. <strong>Estrutura de Dados Descomplicada em Linguagem C</strong>. 1. ed. Rio de Janeiro: Elsevier, 2016[.](https://app.box.com/s/5x0rmierd1unonsdp7ox9iuwg3vskekc)
 | <img src="./referencias/capas/CELES-2e_2016.jpg" alt="img" width="100px"> | <sup id="CELES-2e_2016">[CELES-2e_2016]</sup><br>CELES, W.; CERQUEIRA, R.; RANGEL, J. R. Introdução a Estruturas de Dados - Com Técnicas de Programação em C, 2. ed. GEN LTC, 2016.
-| <img src="./referencias/capas/CELES_2004.jpg" alt="img" width="100px"> | <sup id="CELES_2004">[CELES_2004]</sup><br>CELES, W.; CERQUEIRA, R.; RANGEL, J. R. [Introdução a Estruturas de Dados - Com Técnicas de Programação em C](https://archive.org/details/introducaoaestruturadedados/). Campus, 2004.
+| <img src="./referencias/capas/CELES_2004.jpg" alt="img" width="100px"> | <sup id="CELES_2004">[CELES_2004]</sup><br>CELES, W.; CERQUEIRA, R.; RANGEL, J. R. [__Introdução a Estruturas de Dados - Com Técnicas de Programação em C__](https://archive.org/details/introducaoaestruturadedados/). Campus, 2004.
+| <img src="./referencias/capas/THAREJA-2e_2014.jpg" alt="img" width="100px"> | <sup id="THAREJA-2e_2014">[THAREJA-2e_2014]</sup><br>THAREJA, Reema. __Data Structures Using C__. New Delhi: Oxford University Press, 2014.
 
 <br>
 
@@ -97,7 +102,6 @@ Estruturas de dados dinâmicas, lineares e não lineares em linguagem C.
 | Capa | Título |
 | :-:  | ---    |
 | <img src="./referencias/capas/ASCENCIO_2010.jpg" alt="img" width="100px"> | <sup id="ASCENCIO_2010">[ASCENCIO_2010]</sup><br>ASCENCIO, Ana Fernanda Gomes; ARAÚJO, Graziela Santos de. __Estruturas de Dados: Algoritmos, Análise da Complexidade e Implementações em JAVA e C/C++__. São Paulo: Pearson Prentice Hall, 2010.<br><sub>https://www.bvirtual.com.br/NossoAcervo/Publicacao/1995</sub>
-| <img src="./referencias/capas/THAREJA-2e_2014.jpg" alt="img" width="100px"> | <sup id="THAREJA-2e_2014">[THAREJA-2e_2014]</sup><br>THAREJA, Reema. __Data Structures Using C__. New Delhi: Oxford University Press, 2014.
 | <img src="./referencias/capas/LOUDON_1999.jpg" alt="img" width="100px"> | <sup id="LOUDON_1999">[LOUDON_1999]</sup><br>LOUDON, Kyle. __Mastering Algorithms with C__. Sebastopol: O’Reilly Media, 1999.
 | <img src="./referencias/capas/REESE_2013.jpg" alt="img" width="100px"> | <sup id="REESE_2013">[REESE_2013]</sup><br>REESE, Richard. __Understanding and Using C Pointers__. O'Reilly Media, 2013[.](https://app.box.com/s/cbp98oofhokip0yki3gh7khz6zb6htgq)
 | <img src="https://algs4.cs.princeton.edu/cover.png" alt="img" width="100px"> | <sup id="SEDGEWICK_2011">[SEDGEWICK_2011]</sup><br>SEGEWICK, Robert; WAYNE, Kevin. [__Algorithms__](https://algs4.cs.princeton.edu/home/). Addison-Wesley, 2011.
